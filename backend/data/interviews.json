@@ -2000,5 +2000,98 @@
         "answer": "I led the enterprise architecture team through baseline measurement, pilot validation, and phased rollout."
       }
     ]
+  },
+  {
+    "id": "INT-3e7d55d5",
+    "candidate_id": "cand-test-provenance",
+    "attempt_id": null,
+    "pathway": "role-ai-transformation-consultant",
+    "status": "in_progress",
+    "questions": [
+      {
+        "id": "q-8031550f",
+        "question_id": "q-8031550f",
+        "category": "COMPETENCY_PROBE",
+        "competency_ids": [
+          "C08"
+        ],
+        "reason": "Critical requirement (20% role weight) with no available evidence.",
+        "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation",
+        "source_evidence_ids": [],
+        "expected_signal": "Demonstrates structured consulting approach and problem solving in Enterprise AI Transformation.",
+        "question": "Describe a complex consulting engagement where you evaluated Enterprise AI Transformation. How did you structure the approach and manage conflicting stakeholder priorities?"
+      },
+      {
+        "id": "q-4ef4faf1",
+        "question_id": "q-4ef4faf1",
+        "category": "COMPETENCY_PROBE",
+        "competency_ids": [
+          "C01"
+        ],
+        "reason": "Critical requirement (15% role weight) with no available evidence.",
+        "evidence_to_verify": "Insufficient evidence for Strategy & Enterprise Thinking",
+        "source_evidence_ids": [],
+        "expected_signal": "Demonstrates structured consulting approach and problem solving in Strategy & Enterprise Thinking.",
+        "question": "Describe a complex consulting engagement where you evaluated Strategy & Enterprise Thinking. How did you structure the approach and manage conflicting stakeholder priorities?"
+      },
+      {
+        "id": "q-1c8782d9",
+        "question_id": "q-1c8782d9",
+        "category": "COMPETENCY_PROBE",
+        "competency_ids": [
+          "C05"
+        ],
+        "reason": "Critical requirement (15% role weight) with no available evidence.",
+        "evidence_to_verify": "Insufficient evidence for Transformation & Change",
+        "source_evidence_ids": [],
+        "expected_signal": "Demonstrates structured consulting approach and problem solving in Transformation & Change.",
+        "question": "Describe a complex consulting engagement where you evaluated Transformation & Change. How did you structure the approach and manage conflicting stakeholder priorities?"
+      },
+      {
+        "id": "q-4d30d98f",
+        "question_id": "q-4d30d98f",
+        "category": "COMPETENCY_PROBE",
+        "competency_ids": [
+          "C09"
+        ],
+        "reason": "Critical requirement (15% role weight) with no available evidence.",
+        "evidence_to_verify": "Insufficient evidence for Problem Structuring & Commercial Thinking",
+        "source_evidence_ids": [],
+        "expected_signal": "Demonstrates structured consulting approach and problem solving in Problem Structuring & Commercial Thinking.",
+        "question": "Describe a complex consulting engagement where you evaluated Problem Structuring & Commercial Thinking. How did you structure the approach and manage conflicting stakeholder priorities?"
+      },
+      {
+        "id": "q-13d82034",
+        "question_id": "q-13d82034",
+        "category": "COMPETENCY_PROBE",
+        "competency_ids": [
+          "C03"
+        ],
+        "reason": "Critical requirement (10% role weight) with no available evidence.",
+        "evidence_to_verify": "Insufficient evidence for Value Chain & Enterprise Analysis",
+        "source_evidence_ids": [],
+        "expected_signal": "Demonstrates structured consulting approach and problem solving in Value Chain & Enterprise Analysis.",
+        "question": "Describe a complex consulting engagement where you evaluated Value Chain & Enterprise Analysis. How did you structure the approach and manage conflicting stakeholder priorities?"
+      },
+      {
+        "id": "q-e594dcb1",
+        "question_id": "q-e594dcb1",
+        "category": "COMPETENCY_PROBE",
+        "competency_ids": [
+          "C04"
+        ],
+        "reason": "Critical requirement (10% role weight) with no available evidence.",
+        "evidence_to_verify": "Insufficient evidence for Process / Capability / TOM",
+        "source_evidence_ids": [],
+        "expected_signal": "Demonstrates structured consulting approach and problem solving in Process / Capability / TOM.",
+        "question": "Describe a complex consulting engagement where you evaluated Process / Capability / TOM. How did you structure the approach and manage conflicting stakeholder priorities?"
+      }
+    ],
+    "answers": [
+      {
+        "question_id": "q-8031550f",
+        "answer": "I led the enterprise architecture team through baseline measurement, pilot validation, and phased rollout."
+      }
+    ]
   }
 ]

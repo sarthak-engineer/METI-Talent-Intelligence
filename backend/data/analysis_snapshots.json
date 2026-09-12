@@ -5853,5 +5853,88 @@
   {
     "snapshot_id": "s-c2",
     "candidate_id": "isolate-cand-2"
+  },
+  {
+    "id": "test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "attempt_id": "attempt-1",
+    "evaluations": [
+      {
+        "competency_id": "C01",
+        "score": 50.0,
+        "confidence": 0.4,
+        "evidence_ids": [],
+        "rationale": "Initial AI score",
+        "strengths": [],
+        "gaps": [],
+        "flags": []
+      }
+    ],
+    "cci": 65.0,
+    "evidence_coverage": 0.5,
+    "evidence_confidence": 0.4,
+    "created_at": "2026-09-12T00:00:00Z"
+  },
+  {
+    "id": "test-snapshot-1-reviewed",
+    "candidate_id": "test-candidate-review",
+    "attempt_id": "attempt-1",
+    "evaluations": [
+      {
+        "competency_id": "C01",
+        "score": 75.0,
+        "confidence": 0.9,
+        "evidence_ids": [
+          "EV-REV-test-candidate-review-C01-1789247560"
+        ],
+        "rationale": "Adjusted due to interview evidence",
+        "strengths": [],
+        "gaps": [],
+        "flags": []
+      }
+    ],
+    "cci": 65.0,
+    "evidence_coverage": 0.5,
+    "evidence_confidence": 0.4,
+    "created_at": "2026-09-12T00:00:00Z",
+    "snapshot_id": "test-snapshot-1-reviewed",
+    "analysis_version": "snapshot-1.0-reviewed",
+    "review_decision": {
+      "id": "REV-test-candidate-review-test-snapshot-1",
+      "candidate_id": "test-candidate-review",
+      "analysis_snapshot_id": "test-snapshot-1",
+      "review_required": true,
+      "reasons": [
+        "low_evidence_confidence"
+      ],
+      "status": "adjusted",
+      "reviewer_id": "Assessor-X",
+      "reviewer_notes": "Evidence from interview was stronger than initially captured.",
+      "created_at": "2026-09-12T00:01:00Z",
+      "reviewed_at": "2026-09-12T21:12:40.537219Z"
+    }
+  },
+  {
+    "id": "test-report-snapshot",
+    "snapshot_id": "test-report-snapshot",
+    "candidate_id": "test-report-candidate",
+    "evaluations": [],
+    "role_matches": [],
+    "role_readiness": [],
+    "review_decision": {
+      "review_required": true,
+      "status": "pending",
+      "reasons": [
+        "client_facing_role"
+      ]
+    }
+  },
+  {
+    "snapshot_id": "s-c1",
+    "candidate_id": "isolate-cand-1"
+  },
+  {
+    "snapshot_id": "s-c2",
+    "candidate_id": "isolate-cand-2"
   }
 ]
