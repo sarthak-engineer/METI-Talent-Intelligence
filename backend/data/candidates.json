@@ -1,0 +1,90 @@
+[
+  {
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "full_name": "alex jeffu",
+    "email": "sarthak2025.tech@gmail.com",
+    "current_role": "data analyst",
+    "years_experience": 5,
+    "location": "jaipur",
+    "industry": "information tech",
+    "target_pathway": "role-ai-ml-consultant",
+    "created_at": "2026-09-12T23:28:57.371418"
+  },
+  {
+    "candidate_id": "cand-alex-mercer-s78f",
+    "full_name": "Alex Mercer",
+    "email": "alex.mercer@example.com",
+    "current_role": "",
+    "years_experience": 5,
+    "location": "",
+    "industry": "Technology Consulting",
+    "target_pathway": "role-ai-transformation-consultant",
+    "created_at": "2026-09-12T23:57:44.686572"
+  },
+  {
+    "candidate_id": "cand-jhon-9g1s",
+    "full_name": "jhon",
+    "email": "wqdwqd@gmail.com",
+    "current_role": "senoif gr",
+    "years_experience": 7,
+    "location": "london",
+    "industry": "Technology Consulting",
+    "target_pathway": "role-ai-ml-consultant",
+    "created_at": "2026-09-13T00:09:22.720877"
+  },
+  {
+    "candidate_id": "cand-ram-yuab",
+    "full_name": "ram",
+    "email": "ram@20252",
+    "current_role": "develioper",
+    "years_experience": 5,
+    "location": "uk",
+    "industry": "Technology Consulting",
+    "target_pathway": "role-ai-transformation-consultant",
+    "created_at": "2026-09-13T00:24:29.686125"
+  },
+  {
+    "candidate_id": "cand-test-candidate-npu8",
+    "full_name": "Test Candidate",
+    "email": "test@example.com",
+    "current_role": "",
+    "years_experience": 5,
+    "location": "",
+    "industry": "Technology Consulting",
+    "target_pathway": "role-ai-transformation-consultant",
+    "created_at": "2026-09-13T00:50:59.534740"
+  },
+  {
+    "candidate_id": "cand-alex-mercer-9vxe",
+    "full_name": "Alex Mercer",
+    "email": "alex.mercer@example.com",
+    "current_role": "",
+    "years_experience": 5,
+    "location": "",
+    "industry": "Technology Consulting",
+    "target_pathway": "role-ai-transformation-consultant",
+    "created_at": "2026-09-13T00:52:52.436891"
+  },
+  {
+    "candidate_id": "cand-qa-candidate-int-ucn3",
+    "full_name": "QA Candidate Interview Fix",
+    "email": "qa-cand-interview-fix@example.com",
+    "current_role": "",
+    "years_experience": 5,
+    "location": "",
+    "industry": "Technology Consulting",
+    "target_pathway": "role-ai-transformation-consultant",
+    "created_at": "2026-09-13T01:14:16.661262"
+  },
+  {
+    "candidate_id": "cand-alice-smith-y2kl",
+    "full_name": "Alice Smith",
+    "email": "alice@example.com",
+    "current_role": "",
+    "years_experience": 5,
+    "location": "",
+    "industry": "Technology Consulting",
+    "target_pathway": "role-ai-transformation-consultant",
+    "created_at": "2026-09-13T01:40:13.592746"
+  }
+]

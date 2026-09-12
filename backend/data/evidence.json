@@ -1,0 +1,3604 @@
+[
+  {
+    "id": "E-9ab907b0",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "HIMAVI H M\nhimavihm222@gmail.com | +91 8660344958 | Bengaluru, India | linkedin.com/in/himavi-h-m\ngithub.com/Himavigithub | himavi-portfolio-craft.lovable.app\nProfessional Summary\nData Analyst with hands-on experience in SQL, Python, Power BI, and Excel, translating large and complex datasets into actionable\nbusiness insights. Skilled in data cleaning, exploratory data analysis, dashboard development, trend analysis, and stakeholder-ready\nreporting. Delivered measurable impact including a 25% improvement in model accuracy and a projected 15% reduction in customer\nchurn through data-driven analysis and predictive modeling. Passionate about leveraging business analytics and data visualization\nto solve real-world problems and support data-driven decision-making.\nTechnical Skills\nProgramming: Python, SQL\nData Analysis: Data Cleaning, Data Wrangling, EDA, Statistical Analysis, Data Validation, Trend Analysis, Root Cause Analysis\nMicrosoft Excel: Pivot Tables, VLOOKUP, XLOOKUP, INDEX-MATCH, Conditional Formatting, Dashboards\nVisualization & BI: Power BI, Tableau, Matplotlib, Business Analytics, Business Intelligence, KPI Reporting\nPython Libraries: Pandas, NumPy, Scikit-learn",
+    "competency_ids": [],
+    "canonical_competency_ids": [],
+    "confidence": 0.25,
+    "created_at": "2026-09-12T17:59:20.851890Z",
+    "source_version": "resume-parser-v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "E-bcf4ab94",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Databases & Cloud: MySQL, MongoDB, Google Cloud Platform (GCP)\nAI & Productivity: ChatGPT, Microsoft Outlook, Word, PowerPoint, Teams\nDevelopment Tools: Git, GitHub, Jupyter Notebook, VS Code, Streamlit, Flask\nProfessional Experience\nData Analytics Virtual Internship (Job Simulation)\nJul 2025 \u2013 Jul 2025\nTata Group\n\u2022 Applied Generative AI tools for data exploration, quality assessment, and predictive modeling on structured business datasets.\n\u2022 Improved model accuracy by 25% and reduced prediction time by 30% by optimizing data pipelines and preprocessing workflows.\nMachine Learning Intern\nSep 2025 \u2013 Dec 2025\nInternsForge\n\u2022 Developed and validated machine learning models on real-world datasets, applying data cleaning and feature engineering\ntechniques to improve model reliability.\n\u2022 Collaborated with cross-functional professionals to review model performance, incorporate feedback, and refine analytical\napproach across multiple iterations.\n\u2022 Supported end-to-end analytics workflows, from data preparation through performance evaluation and reporting.\nProjects\nRetail Sales & Profitability Analysis\nSQL, Tableau, Excel",
+    "competency_ids": [],
+    "canonical_competency_ids": [],
+    "confidence": 0.25,
+    "created_at": "2026-09-12T17:59:20.851890Z",
+    "source_version": "resume-parser-v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "E-eabe3fdd",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "\u2022 Analyzed 50,000+ transaction records via SQL to identify sales trends and built an interactive Tableau dashboard tracking KPIs\nacross 12 stores.\n\u2022 Recommended data-driven pricing strategies projected to increase quarterly revenue by 10\u201315%.\nCustomer Retention & Churn Analysis\nPython, Pandas, Scikit-learn\n\u2022 Analyzed 7,000+ customer records to identify key churn drivers using exploratory data analysis and statistical methods.\n\u2022 Built a logistic regression model achieving 85% accuracy; recommended retention strategies estimated to reduce annual churn\nby 15%.\nSocial Media Brand Sentiment Analytics\nPython, NLP, Matplotlib\n\u2022 Analyzed 10,000+ social media posts using NLP techniques to detect sentiment trends and flag emerging brand risks.\n\u2022 Visualized a 20% spike in negative feedback via Matplotlib dashboards and generated word clouds enabling real-time strategy\nadjustments.\nEducation\nB.E. in Information Science and Engineering\n2022 \u2013 2026\nYenepoya Institute of Technology\nVisvesvaraya Technological University (VTU)\nRelevant Coursework: Database Management Systems, Statistics, Data Mining, Machine Learning, Business Analytics\nCertifications\n\u2022 Generative AI \u2014 Google Cloud",
+    "competency_ids": [],
+    "canonical_competency_ids": [],
+    "confidence": 0.25,
+    "created_at": "2026-09-12T17:59:20.865417Z",
+    "source_version": "resume-parser-v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "E-376c0b90",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "\u2022 GenAI-Powered Data Analytics Job Simulation \u2014 Tata Group",
+    "competency_ids": [],
+    "canonical_competency_ids": [],
+    "confidence": 0.25,
+    "created_at": "2026-09-12T17:59:20.880200Z",
+    "source_version": "resume-parser-v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-f138ad24",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "source": "diagnostic_assessment:ATT-1fbd2f27",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: Rank the following considerations when deciding whether a proposed transformation initiative should proceed:\n\nCandidate response: \n1. customer value\n2. expected financial impact\n3. implementation feasibility\n4. risk / compliance\n5. strategic alignment",
+    "competency_ids": [
+      "C01",
+      "C09"
+    ],
+    "canonical_competency_ids": [
+      "C14",
+      "C01"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:02:14.629233Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-1fbd2f27",
+    "question_id": "Q08",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-db302794",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "source": "diagnostic_assessment:ATT-1fbd2f27",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: You are assigned to a consulting problem in an unfamiliar industry with limited prior knowledge. How would you approach the first week?\n\nCandidate response: Talk to experts fast, read broadly but shallow, get real data early, build a hypothesis (issue tree) on day one and refine it daily, and validate direction with your team before going deep \u2014 prioritize context compression over analysis in week one.",
+    "competency_ids": [
+      "C12",
+      "C14"
+    ],
+    "canonical_competency_ids": [
+      "C18",
+      "C20"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:02:14.629233Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-1fbd2f27",
+    "question_id": "Q12",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-d609bab0",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "source": "diagnostic_assessment:ATT-1fbd2f27",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A client wants to deploy GenAI into customer service. What would you assess before recommending implementation?\n\nCandidate response: Assess: (1) which queries are simple/repetitive enough for AI vs. needing human judgment, (2) quality and readiness of knowledge-base data to ground responses, (3) current baseline metrics (CSAT, cost/ticket, resolution time) to measure against, (4) compliance/liability risk from wrong answers, (5) integration with existing systems, (6) staff/agent change-management impact, and (7) real ROI vs. cost of build/buy \u2014 all anchored to whether the goal is cost, speed, or CX.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [
+      "C12"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:02:14.629233Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-1fbd2f27",
+    "question_id": "Q06",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-2d490e26",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "source": "diagnostic_assessment:ATT-1fbd2f27",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A client says revenue has fallen 12%. Describe the first 3 things you would investigate before proposing a solution.\n\nCandidate response: Segment the decline \u2014 break revenue by product line, region, customer segment, and time period to find where the drop is concentrated vs. broad-based.\nSeparate price vs. volume vs. mix \u2014 determine if fewer units sold, lower prices, or a shift to lower-margin products is driving it.\nCheck external vs. internal drivers \u2014 market/industry-wide decline",
+    "competency_ids": [
+      "C03",
+      "C09"
+    ],
+    "canonical_competency_ids": [
+      "C03",
+      "C13"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:02:14.629233Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-1fbd2f27",
+    "question_id": "Q02",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-95277812",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "source": "diagnostic_assessment:ATT-1fbd2f27",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A senior stakeholder strongly disagrees with your recommendation and wants a different approach. How would you handle the situation?\n\nCandidate response: First, listen fully and understand their specific objection \u2014 is it about the data, the assumptions, or their own risk/experience? Then restate their concern back to confirm you've got it right. If their point has merit, incorporate it or adjust the recommendation. If you still believe your approach is right, present the evidence calmly, acknowledge trade-offs, and propose testing both (pilot, phased rollout) rather than turning it into a standoff. Ultimately, defer to their call if they have final authority, but make sure the reasoning and risks are documented so the decision is informed either way.",
+    "competency_ids": [
+      "C12",
+      "C14"
+    ],
+    "canonical_competency_ids": [
+      "C16",
+      "C19"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:02:14.629233Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-1fbd2f27",
+    "question_id": "Q09",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-d16a73c7",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "source": "diagnostic_assessment:ATT-1fbd2f27",
+    "evidence_type": "written_response",
+    "text": "Assessment question: Write a short executive update explaining that a transformation initiative is behind schedule, including the issue, impact, action and decision required.\n\nCandidate response: Issue: The transformation initiative is behind schedule due to [cause].\nImpact: Go-live is at risk of slipping by [X weeks], affecting [downstream milestones/costs].\nAction: Team has [taken corrective step] and proposed a plan to recover [X weeks].\nDecision Required: Approve revised timeline, extra resources, or reduced scope by [date].",
+    "competency_ids": [
+      "C10",
+      "C11"
+    ],
+    "canonical_competency_ids": [
+      "C15"
+    ],
+    "confidence": 0.65,
+    "created_at": "2026-09-12T18:02:14.629233Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-1fbd2f27",
+    "question_id": "Q10",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "case-cand-alex-jeffu-s3mz-20260912180252098296",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "CASE TITLE:\nProduction ML Value Realization\n\nCASE:\nA predictive maintenance ML solution at a manufacturing firm performed exceptionally well during a 3-month proof-of-concept testing phase (92% accuracy). However, six months after deployment into production, the business sponsor reports it is struggling to deliver the expected financial value, and maintenance costs remain unchanged.\n\nINSTRUCTIONS:\nDiagnose the likely causes for the discrepancy between testing performance and production value. Outline your methodology for investigating the issue and recommend an enterprise approach to remediate it.\n\nCANDIDATE RESPONSE:\nDiagnosis: Why 92% Accuracy Didn't Translate to Value\n\n1. Accuracy \u2260 business impact\n92% model accuracy is a technical metric, not a financial one. It says nothing about precision/recall trade-offs on rare failure events, false positive costs (unnecessary maintenance triggered), or false negative costs (missed failures still causing downtime). A model can be \"accurate\" overall while missing the specific high-cost failure modes that actually drive maintenance spend.\n\n2. Data drift between POC and production\nThe 3-month POC likely used a curated, stable dataset from a specific set of machines/conditions. Production introduces new equipment, sensor degradation, seasonal effects, or operating condition changes the model never saw \u2014 silently eroding real-world performance even if it \"looks\" fine on paper.\n\n3. Workflow/adoption gap\nA prediction is not an outcome. If maintenance teams aren't acting on alerts (due to alert fatigue, distrust, unclear ownership, or the alerts not fitting into existing scheduling/ERP workflows), the model can be technically correct and still change nothing operationally.\n\n4. Wrong or diluted KPI linkage\n\"Maintenance costs unchanged\" could mean the model is preventing failures, but savings are being offset elsewhere (e.g., increased preventive maintenance labor, parts ordered too early, no reduction in headcount/schedules despite fewer breakdowns). The financial benefit may exist but isn't being measured or captured operationally.\n\n5. Base rate / scope mismatch\nIf catastrophic failures were already rare, even a good model has limited dollars to save \u2014 the POC's accuracy number may have been measured against a dataset with more balanced fail/no-fail examples than the true production distribution.",
+    "competency_ids": [
+      "C02",
+      "C08",
+      "C13",
+      "C14",
+      "C15"
+    ],
+    "canonical_competency_ids": [
+      "C13",
+      "C08",
+      "C14",
+      "C02",
+      "C15"
+    ],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T18:02:52.098296Z",
+    "source_version": "case-v1.0",
+    "attempt_id": "CA-1c66004d",
+    "question_id": "case-ai-ml-01",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912180428852765",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "n your resume you mention translating large, complex datasets into actionable business insights that led to a 25% improvement in model accuracy and a projected 15% reduction in churn. Can you walk me through a specific project where you performed this research and insight work, detailing the data you used, the analytical approach, how you generated the insights, and how you measured and validated the business impact?",
+    "competency_ids": [
+      "C02"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:04:28.852765Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-f66baeeb",
+    "question_id": "q-44cd4b3c",
+    "pathway": "role-ai-ml-consultant",
+    "category": "CLAIM_VERIFICATION",
+    "source_evidence_ids": [
+      "E-9ab907b0"
+    ],
+    "evidence_to_verify": "Resume states: \"Data Analyst ... translating large and complex datasets into actionable business insights. Delivered measurable impact including a 25% improvement in model accuracy and a projected 15% reduction in customer churn through data\u2011driven analysis and predictive modeling.\""
+  },
+  {
+    "id": "INT-E-20260912180458247321",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "as the candidate based on resume details.\nAnswering as the candidate based on resume details.\nI don't have details on a specific project you built with MySQL, MongoDB, and GCP in my notes \u2014 I only have your general background (AI/ML engineer, BE in AI/ML, Contriver internship). To write an accurate answer, I'd need you to fill in specifics, since I shouldn't invent a project on your behalf for something like an interview response.\n\nCould you share:\n\nWhat was the project/use case? (e.g., a pipeline at Contriver, a personal project, coursework)\nWhat did each tool actually do? \u2014 e.g., MongoDB for raw/unstructured ingestion, MySQL for structured/transactional data, GCP for compute/storage/orchestration (BigQuery? Cloud Functions? Dataflow?)",
+    "competency_ids": [
+      "C04"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:04:58.247321Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-f66baeeb",
+    "question_id": "q-dbaff30f",
+    "pathway": "role-ai-ml-consultant",
+    "category": "CLAIM_VERIFICATION",
+    "source_evidence_ids": [
+      "E-bcf4ab94"
+    ],
+    "evidence_to_verify": "Resume lists: \"Databases & Cloud: MySQL, MongoDB, Google Cloud Platform (GCP)\""
+  },
+  {
+    "id": "INT-E-20260912180536335242",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "Strategy: Tie every AI use case to a specific business outcome and prioritize by value vs. feasibility, with an accountable executive sponsor.\nData governance: Ensure clean, accessible, well-governed data with clear ownership before scaling.\nModel lifecycle: Standardize MLOps (CI/CD, monitoring, retraining triggers) so pilots don't stay one-off builds.\nChange management: Redesign workflows/decision rights around AI outputs and build user trust/adoption, not just deploy tech.\nValue measurement: Track financial/operational KPIs (not just accuracy) with a named owner, and report a portfolio view to leadership tied to real outcomes vs. hype.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:05:36.335242Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-f66baeeb",
+    "question_id": "q-15ede0bd",
+    "pathway": "role-ai-ml-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "No direct evidence of enterprise AI transformation experience"
+  },
+  {
+    "id": "INT-E-20260912180559684708",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I don't have a specific project of yours on file where you rapidly onboarded a new domain or technology \u2014 just your general background (BE in AI/ML, the Contriver internship, and interests in Python/ML/GenAI/RAG). I don't want to invent an experience and hand it to you as if it were yours.\n\nTo build a strong, honest answer, could you tell me about a real instance \u2014 even a rough one? For example:\n\nA new dataset, tool, or framework you had to learn fast during your internship or coursework\nA project where you had to ramp up on a domain you didn't know (e.g., a client's industry, a new API, an unfamiliar ML technique like RAG if that was new to you at the time)\nA hackathon or personal project where you dove into something unfamiliar under time pressure",
+    "competency_ids": [
+      "C14"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:05:59.684708Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-f66baeeb",
+    "question_id": "q-5728ce36",
+    "pathway": "role-ai-ml-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [
+      "EVI-db302794"
+    ],
+    "evidence_to_verify": "Scenario response (EVI-db302794) shows rapid expert outreach, shallow reading, early data acquisition, hypothesis building, and iterative refinement in a new industry"
+  },
+  {
+    "id": "INT-E-20260912180631025752",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "Translating Diagnosis into a Commercial Recommendation\n\nStep 1: Convert findings into a \"so what\"\nEach diagnostic finding needs to answer: what specific lever does this point to, and what's the size of the prize? E.g., \"Volume decline concentrated in Region X due to a competitor's price cut\" \u2192 the lever is competitive repricing or value-add differentiation in that region, sized at $Y of the $12%.\n\nStep 2: Build a menu of options against each root cause\nFor each diagnosed driver (price, volume, mix, external/internal), generate 2\u20133 candidate interventions \u2014 e.g., for volume loss: targeted promotions, channel expansion, win-back campaigns; for mix shift: upsell/cross-sell programs, portfolio rationalization.\n\nStep 3: Prioritize using a structured framework\n\nImpact vs. Effort (2x2) matrix \u2014 quick filter to separate \"quick wins\" from \"major bets\" and deprioritize low-impact/high-effort options.\nCost-benefit / NPV analysis \u2014 quantify expected revenue recovery vs. implementation cost and time-to-value for shortlisted options; this converts diagnosis into a business case leadership can act on.\nStrategic fit screen \u2014 assess each option against the company's stated strategy, brand positioning, and capabilities (an option might recover revenue but conflict with a premium positioning, for instance \u2014 that's a real trade-off to surface, not ignore).\nPortfolio/sequencing view \u2014 not all fixes happen at once; sequence based on urgency (stop the bleeding) vs. sustainable fixes (structural repositioning, pricing architecture overhaul).",
+    "competency_ids": [
+      "C09"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:06:31.025752Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-f66baeeb",
+    "question_id": "q-18dd9387",
+    "pathway": "role-ai-ml-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [
+      "EVI-2d490e26"
+    ],
+    "evidence_to_verify": "Scenario response (EVI-2d490e26) outlines segmenting revenue drop, separating price/volume/mix, and checking external vs. internal drivers"
+  },
+  {
+    "id": "INT-E-20260912180655225678",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "Research & Insight Generation Behind an Executive Update\n1. Data Sources to Consult\nProject management data: RAID logs, Gantt/timeline vs. actuals, milestone tracker, resource allocation plans \u2014 to see exactly where and how far the schedule has slipped.\nFinancial data: Budget burn rate vs. plan, cost variance reports \u2014 delays usually come with cost implications that stakeholders will ask about.\nTeam-level inputs: Sprint/workstream status reports, stand-up notes, vendor status calls \u2014 to catch issues before they're formally escalated.\nStakeholder interviews: Talk directly to workstream leads and, if relevant, the vendor/third party involved \u2014 status reports often understate root cause; a 15-minute conversation surfaces the real blocker.\nHistorical benchmarks: How similar past i",
+    "competency_ids": [
+      "C02"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:06:55.225678Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-f66baeeb",
+    "question_id": "q-7a2a1bba",
+    "pathway": "role-ai-ml-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [
+      "EVI-d16a73c7"
+    ],
+    "evidence_to_verify": "Written executive update (EVI-d16a73c7) demonstrates concise communication of issue, impact, action, and decision required"
+  },
+  {
+    "id": "EV-TEST-CLAIM-001",
+    "candidate_id": "cand-test-claim-verification",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Reduced model inference latency by 40% using TensorRT and vLLM acceleration pipeline.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T18:17:13.937922Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-RESUME-TRI-01",
+    "candidate_id": "cand-test-triangulation",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Implemented enterprise multi-agent platform for real-time document search.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T18:17:15.968309Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-CASE-TRI-02",
+    "candidate_id": "cand-test-triangulation",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "Designed retail bank onboarding automation architecture and TOM roadmap.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T18:17:15.968309Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912181721699531",
+    "candidate_id": "cand-test-provenance",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I led the enterprise architecture team through baseline measurement, pilot validation, and phased rollout.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:17:21.699531Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-ddeeb2a9",
+    "question_id": "q-21059998",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "EV-REV-test-candidate-review-C01-1789237041",
+    "candidate_id": "test-candidate-review",
+    "source": "Assessor Assessor-X",
+    "evidence_type": "human_review",
+    "text": "AI Score: 50.0 -> Human Score: 75.0. Notes: Evidence from interview was stronger than initially captured.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.95,
+    "created_at": "2026-09-12T18:17:21.774218Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-TEST-CLAIM-001",
+    "candidate_id": "cand-test-claim-verification",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Reduced model inference latency by 40% using TensorRT and vLLM acceleration pipeline.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T18:26:20.128363Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-RESUME-TRI-01",
+    "candidate_id": "cand-test-triangulation",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Implemented enterprise multi-agent platform for real-time document search.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T18:26:22.362839Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-CASE-TRI-02",
+    "candidate_id": "cand-test-triangulation",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "Designed retail bank onboarding automation architecture and TOM roadmap.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T18:26:22.362839Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912182625811151",
+    "candidate_id": "cand-test-provenance",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I led the enterprise architecture team through baseline measurement, pilot validation, and phased rollout.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:26:25.811151Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-4a03f48e",
+    "question_id": "q-91ea311c",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "EV-REV-test-candidate-review-C01-1789237585",
+    "candidate_id": "test-candidate-review",
+    "source": "Assessor Assessor-X",
+    "evidence_type": "human_review",
+    "text": "AI Score: 50.0 -> Human Score: 75.0. Notes: Evidence from interview was stronger than initially captured.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.95,
+    "created_at": "2026-09-12T18:26:25.880368Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-479bfd3c",
+    "candidate_id": "cand-alex-mercer-s78f",
+    "source": "diagnostic_assessment:ATT-bcb8d94e",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A client says revenue has fallen 12%. Describe the first 3 things you would investigate before proposing a solution.\n\nCandidate response: First, breakdown revenue by product lines, regions, and customer segments to isolate the decline. Second, analyze unit economics, pricing changes, and volume fluctuations. Third, evaluate external market conditions, competitor movements, and customer churn metrics.",
+    "competency_ids": [
+      "C03",
+      "C09"
+    ],
+    "canonical_competency_ids": [
+      "C03",
+      "C13"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:30:22.825714Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-bcb8d94e",
+    "question_id": "Q02",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-5f6fe080",
+    "candidate_id": "cand-alex-mercer-s78f",
+    "source": "diagnostic_assessment:ATT-bcb8d94e",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A senior stakeholder strongly disagrees with your recommendation and wants a different approach. How would you handle the situation?\n\nCandidate response: I would schedule a 1-on-1 session to understand their underlying concerns, present data-backed trade-off analysis, align on shared strategic objectives, and collaboratively refine the approach.",
+    "competency_ids": [
+      "C12",
+      "C14"
+    ],
+    "canonical_competency_ids": [
+      "C16",
+      "C19"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:30:22.825714Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-bcb8d94e",
+    "question_id": "Q09",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-1436d51d",
+    "candidate_id": "cand-alex-mercer-s78f",
+    "source": "diagnostic_assessment:ATT-bcb8d94e",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: Client has three initiatives but limited budget. Which is the strongest first step?\n\nCandidate response: Assess alignment with strategic objectives and financial ROI.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [
+      "C01"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:30:22.825714Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-bcb8d94e",
+    "question_id": "Q01",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-f5e78651",
+    "candidate_id": "cand-alex-mercer-s78f",
+    "source": "diagnostic_assessment:ATT-bcb8d94e",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A transformation programme has strong executive sponsorship but poor adoption. What would you investigate and what would you change?\n\nCandidate response: I would investigate user incentives, change management communication, training quality, and UI friction. I would implement targeted change enablement, champions network, and continuous feedback loops.",
+    "competency_ids": [
+      "C05"
+    ],
+    "canonical_competency_ids": [
+      "C08",
+      "C09"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:30:22.825714Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-bcb8d94e",
+    "question_id": "Q05",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-db985cf1",
+    "candidate_id": "cand-alex-mercer-s78f",
+    "source": "diagnostic_assessment:ATT-bcb8d94e",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A client wants to deploy GenAI into customer service. What would you assess before recommending implementation?\n\nCandidate response: I would assess data quality, compliance/privacy constraints, fallback human agent workflows, accuracy requirements, and expected ROI.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [
+      "C12"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:30:22.825714Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-bcb8d94e",
+    "question_id": "Q06",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-9bf1a779",
+    "candidate_id": "cand-alex-mercer-s78f",
+    "source": "diagnostic_assessment:ATT-bcb8d94e",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A business has high customer complaints concentrated around onboarding. Explain how you would analyse the value chain to identify where intervention is needed.\n\nCandidate response: I would map the onboarding touchpoints from initial sign-up to first value realization, analyze complaint frequency and sentiment at each step, evaluate operational handoffs between sales and success teams, and benchmark cycle times.",
+    "competency_ids": [
+      "C03"
+    ],
+    "canonical_competency_ids": [
+      "C04"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:30:22.826467Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-bcb8d94e",
+    "question_id": "Q03",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "case-cand-alex-mercer-s78f-20260912183119917623",
+    "candidate_id": "cand-alex-mercer-s78f",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "CASE TITLE:\nGenAI Customer Operations Transformation\n\nCASE:\nA large telecommunications company wants to introduce Generative AI into their customer operations. They have high call volumes, low customer satisfaction, and aging legacy CRM systems. The board is pushing for AI adoption, but the operations team is concerned about risks, hallucination, and job displacement.\n\nINSTRUCTIONS:\nPlease provide a structured assessment of this situation. Discuss the business value, potential risks, transformation implications, operating considerations, and a recommended implementation approach.\n\nCANDIDATE RESPONSE:\n1. BUSINESS VALUE: GenAI can streamline tier-1 support, reducing average handle time (AHT) and boosting CSAT through instant 24/7 resolution of routine inquiries. 2. RISKS: Key risks include model hallucinations, data privacy violations, CRM integration bottlenecks, and employee displacement anxiety. 3. TRANSFORMATION IMPLICATIONS: Requires a robust change management strategy positioning GenAI as an agent copilot rather than replacement, plus targeted upskilling. 4. OPERATING CONSIDERATIONS: Establish human-in-the-loop guardrails, CRM middleware APIs, real-time safety auditing, and clear escalation paths. 5. RECOMMENDED APPROACH: Phase 1: Deploy agent-assist tools internally to build trust. Phase 2: Pilot customer-facing self-service for low-risk intents. Phase 3: Full end-to-end automated workflows with CRM synchronization.",
+    "competency_ids": [
+      "C01",
+      "C04",
+      "C08",
+      "C12",
+      "C15"
+    ],
+    "canonical_competency_ids": [
+      "C12",
+      "C08",
+      "C04",
+      "C01",
+      "C15"
+    ],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T18:31:19.917623Z",
+    "source_version": "case-v1.0",
+    "attempt_id": "CA-e9041db7",
+    "question_id": "case-ai-trans-01",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912183216634748",
+    "candidate_id": "cand-alex-mercer-s78f",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I led an enterprise AI roadmap for a retail organization balancing IT infrastructure modernization with business unit urgency. I structured the approach into strategic alignment, data readiness assessment, architecture pilot, and ROI modeling. I aligned conflicting executive priorities by establishing a joint steering committee with transparent capability scoring and phased funding gates.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:32:16.634748Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-27f155af",
+    "question_id": "q-6d51afbf",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "INT-E-20260912183244075892",
+    "candidate_id": "cand-alex-mercer-s78f",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I developed a 5-year digital growth strategy for an insurance provider. I evaluated enterprise capabilities across market positioning, operating model, and capital allocation. When business unit leaders disputed resource allocation, I tied capital distribution directly to quantifiable strategic objectives and customer lifetime value metrics.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:32:44.075892Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-27f155af",
+    "question_id": "q-ee7e31c6",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Strategy & Enterprise Thinking"
+  },
+  {
+    "id": "INT-E-20260912183309023213",
+    "candidate_id": "cand-alex-mercer-s78f",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I led an organizational change initiative during a cloud migration. I evaluated cultural readiness, skill gaps, and workflow friction points. To address front-line resistance against mandated tool adoption, I launched champion networks, hands-on upskilling bootcamps, and aligned KPI incentives with tool usage.",
+    "competency_ids": [
+      "C05"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:33:09.023213Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-27f155af",
+    "question_id": "q-401664f0",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Transformation & Change"
+  },
+  {
+    "id": "INT-E-20260912183338626241",
+    "candidate_id": "cand-alex-mercer-s78f",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I structured a value tree decomposition for a logistics firm looking to optimize margins. I broke down cost drivers, pricing elasticity, and operational unit economics. When operational managers clashed with finance on cost reduction targets, I built sensitivity models demonstrating trade-offs between service level agreements and margin impact.",
+    "competency_ids": [
+      "C09"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:33:38.626241Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-27f155af",
+    "question_id": "q-960b4cf7",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Problem Structuring & Commercial Thinking"
+  },
+  {
+    "id": "INT-E-20260912183411154357",
+    "candidate_id": "cand-alex-mercer-s78f",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I conducted an end-to-end value chain analysis for a global manufacturing firm. I mapped primary activities from procurement to post-sale service to uncover bottlenecks. When procurement prioritized low supplier unit costs over production team's quality standards, I established total cost of ownership (TCO) metrics to unify supplier evaluation.",
+    "competency_ids": [
+      "C03"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:34:11.154357Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-27f155af",
+    "question_id": "q-cff15048",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Value Chain & Enterprise Analysis"
+  },
+  {
+    "id": "INT-E-20260912183440122891",
+    "candidate_id": "cand-alex-mercer-s78f",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I redesigned the Target Operating Model for a financial services firm transitioning to an agile delivery structure. I evaluated current state capability maturity across governance, workforce skills, and tooling. To resolve leadership concerns regarding loss of control, I implemented federated governance squads with clear decision rights.",
+    "competency_ids": [
+      "C04"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:34:40.122891Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-27f155af",
+    "question_id": "q-aecf036d",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Process / Capability / TOM"
+  },
+  {
+    "id": "E-f9430131",
+    "candidate_id": "cand-jhon-9g1s",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Farhan Akhtar Makandar\nAI/ML Engineer | Deep Learning | Agentic AI | RAG Systems\n+91 7349123558 | farhan7860122@gmail.com | Sirsi, Karnataka, India\nLinkedIn | GitHub | Hugging Face | Portfolio\nProfessional Summary\nFinal-year B.E. student in AI & Machine Learning with research internship experience at NIT Calicut.\nSpecialized in transformer architectures, time-series forecasting, Agentic AI, and Retrieval-Augmented\nGeneration (RAG). Developed a Temporal Fusion Transformer that achieved 22% higher predictive accuracy\nthan XGBoost and KNN baselines for seismic response prediction. Proficient in PyTorch, LLM applications,\nmulti-agent workflows, benchmarking, and production-oriented AI system development.\nExperience\nResearch Intern \u2013 AI/ML\nNational Institute of Technology (NIT) Calicut\n\u2022 Contributed to cutting-edge research on neural network optimization and deep learning for engineering\nsystems.\n\u2022 Designed and benchmarked transformer-based architectures (TFT, SAINT) using PyTorch; delivered a model\nthat outperformed classical baselines by 22%.\n\u2022 Built end-to-end training pipelines with feature engineering, hyperparameter tuning, and rigorous\ncross-validation.",
+    "competency_ids": [],
+    "canonical_competency_ids": [],
+    "confidence": 0.25,
+    "created_at": "2026-09-12T18:39:32.190615Z",
+    "source_version": "resume-parser-v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "E-d9296a6e",
+    "candidate_id": "cand-jhon-9g1s",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "\u2022 Conducted performance analysis, model validation, and prepared technical reports for internal review.\n\u2022 Collaborated with a multidisciplinary team to integrate scientific computing techniques into predictive\nmodeling.\nProjects\nSeismic Response Prediction using Temporal Fusion Transformer\nPyTorch, Transformers, Time-Series Forecasting\n\u2022 Built a Temporal Fusion Transformer (TFT) to predict seismic response in BRBF structures.\n\u2022 Achieved 22% higher predictive accuracy over XGBoost and KNN baselines through systematic benchmarking\nand hyperparameter optimization.\n\u2022 Developed an automated feature engineering pipeline and rigorous validation scheme, ensuring reproducibility.\nAgentOS Multi-Agent AI Platform\nAgentic AI, Multi-Agent Systems, Tool Calling\n\u2022 Implemented multi-agent workflows with task decomposition, intelligent routing, tool invocation, and response\nsynthesis.\n\u2022 Designed agent communication protocols and reasoning pipelines that enable coordinated execution of\ncomplex tasks.\n\u2022 Built a scalable orchestration engine, allowing specialized agents to collaborate efficiently on heterogeneous\nworkloads.\nRAG Pipeline with LLM Reasoning\nRAG, Vector Search, LLM Applications",
+    "competency_ids": [],
+    "canonical_competency_ids": [],
+    "confidence": 0.25,
+    "created_at": "2026-09-12T18:39:32.200409Z",
+    "source_version": "resume-parser-v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "E-3de62752",
+    "candidate_id": "cand-jhon-9g1s",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "\u2022 Built an end-to-end Retrieval-Augmented Generation pipeline integrating embeddings, vector retrieval, and\nLLM reasoning.\n\u2022 Implemented semantic search and context-aware response generation, significantly improving relevance and\ndocument understanding.\n\u2022 Optimized retrieval strategies and prompt templates to reduce hallucination and enhance factual consistency.\nTechnical Skills\nLanguages: Python, Julia, R.\nAI/ML: PyTorch, TensorFlow, Scikit-Learn, XGBoost, Transformers, TFT, SAINT\nGenerative AI: LLMs, RAG, Prompt Engineering, Multi-Agent Systems.\nResearch: Benchmarking, Experiment Tracking, Model Validation, Time-Series Forecasting\nTools: AWS, Hugging Face, Git, GitHub, Jupyter\nEducation\nYenepoya Institute of Technology, Moodbidri (VTU)\n2022 \u2013 2026\nBachelor of Engineering (B.E.) in Artificial Intelligence & Machine Learning\nCertifications\n\u2022 Oracle Cloud Infrastructure 2025 AI Foundations Associate\n\u2022 NVIDIA DLI \u2013 Building RAG Agents with Large Language Models\n\u2022 AWS Generative AI Essentials\n\u2022 IBM Machine Learning with Python\n\u2022 IBM Deep Learning Fundamentals",
+    "competency_ids": [],
+    "canonical_competency_ids": [],
+    "confidence": 0.25,
+    "created_at": "2026-09-12T18:39:32.224341Z",
+    "source_version": "resume-parser-v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-9fb720f9",
+    "candidate_id": "cand-jhon-9g1s",
+    "source": "diagnostic_assessment:ATT-75f2d4ad",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: Rank the following considerations when deciding whether a proposed transformation initiative should proceed:\n\nCandidate response: \n1. customer value\n2. implementation feasibility\n3. expected financial impact\n4. strategic alignment\n5. risk / compliance",
+    "competency_ids": [
+      "C01",
+      "C09"
+    ],
+    "canonical_competency_ids": [
+      "C14",
+      "C01"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:40:59.700731Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-75f2d4ad",
+    "question_id": "Q08",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-150bfd18",
+    "candidate_id": "cand-jhon-9g1s",
+    "source": "diagnostic_assessment:ATT-75f2d4ad",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: You are assigned to a consulting problem in an unfamiliar industry with limited prior knowledge. How would you approach the first week?\n\nCandidate response: dffffffffffffffd",
+    "competency_ids": [
+      "C12",
+      "C14"
+    ],
+    "canonical_competency_ids": [
+      "C18",
+      "C20"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:40:59.700731Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-75f2d4ad",
+    "question_id": "Q12",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-2113720b",
+    "candidate_id": "cand-jhon-9g1s",
+    "source": "diagnostic_assessment:ATT-75f2d4ad",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A client wants to deploy GenAI into customer service. What would you assess before recommending implementation?\n\nCandidate response: efffffffffffffffffffffff",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [
+      "C12"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:40:59.700731Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-75f2d4ad",
+    "question_id": "Q06",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-5ae3ed43",
+    "candidate_id": "cand-jhon-9g1s",
+    "source": "diagnostic_assessment:ATT-75f2d4ad",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A client says revenue has fallen 12%. Describe the first 3 things you would investigate before proposing a solution.\n\nCandidate response: short amser\n\nSegment the decline \u2014 by product, region, customer segment, and time period to find where it's concentrated.\nPrice vs. volume vs. mix \u2014 determine what's actually driving the drop in dollar terms.\nExternal vs. internal drivers \u2014 market/competitor/macro factors vs. company-specific issues (execution, product, customer loss).",
+    "competency_ids": [
+      "C03",
+      "C09"
+    ],
+    "canonical_competency_ids": [
+      "C03",
+      "C13"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:40:59.700731Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-75f2d4ad",
+    "question_id": "Q02",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-da9d2586",
+    "candidate_id": "cand-jhon-9g1s",
+    "source": "diagnostic_assessment:ATT-75f2d4ad",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A senior stakeholder strongly disagrees with your recommendation and wants a different approach. How would you handle the situation?\n\nCandidate response: Listen fully to understand the specific concern, then restate it to confirm you've got it right. If they've raised a valid point, incorporate it. If you still believe your approach is right, present the evidence calmly, acknowledge trade-offs, and propose a way to test both (pilot or phased approach) rather than forcing a standoff. Ultimately defer to their authority if needed, but document the reasoning so the decision is informed either way.",
+    "competency_ids": [
+      "C12",
+      "C14"
+    ],
+    "canonical_competency_ids": [
+      "C16",
+      "C19"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:40:59.700731Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-75f2d4ad",
+    "question_id": "Q09",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-59ab8720",
+    "candidate_id": "cand-jhon-9g1s",
+    "source": "diagnostic_assessment:ATT-75f2d4ad",
+    "evidence_type": "written_response",
+    "text": "Assessment question: Write a short executive update explaining that a transformation initiative is behind schedule, including the issue, impact, action and decision required.\n\nCandidate response: Issue: The transformation initiative is behind schedule due to [cause \u2014 e.g., delayed data migration, vendor dependency, resourcing gaps].\nImpact: Go-live is at risk of slipping by [X weeks], affecting [downstream milestones/costs].\nAction: The team has [taken corrective step] and proposed a plan to recover [X weeks] of the timeline.\nDecision Required: Approve the revised timeline, additional resources to accelerate recovery, or reduced scope \u2014 by [date].",
+    "competency_ids": [
+      "C10",
+      "C11"
+    ],
+    "canonical_competency_ids": [
+      "C15"
+    ],
+    "confidence": 0.65,
+    "created_at": "2026-09-12T18:40:59.700731Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-75f2d4ad",
+    "question_id": "Q10",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "case-cand-jhon-9g1s-20260912184125362890",
+    "candidate_id": "cand-jhon-9g1s",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "CASE TITLE:\nProduction ML Value Realization\n\nCASE:\nA predictive maintenance ML solution at a manufacturing firm performed exceptionally well during a 3-month proof-of-concept testing phase (92% accuracy). However, six months after deployment into production, the business sponsor reports it is struggling to deliver the expected financial value, and maintenance costs remain unchanged.\n\nINSTRUCTIONS:\nDiagnose the likely causes for the discrepancy between testing performance and production value. Outline your methodology for investigating the issue and recommend an enterprise approach to remediate it.\n\nCANDIDATE RESPONSE:\nDiagnosis\n\n1. Accuracy \u2260 business value. 92% accuracy is a technical metric \u2014 it doesn't reveal false positive/negative costs, or whether the model catches the specific high-cost failure modes that actually drive maintenance spend.\n\n2. Data/concept drift. The POC ran on a curated 3-month dataset. Production introduces new equipment, sensor degradation, and changing operating conditions the model never saw, quietly eroding real-world accuracy.\n\n3. Adoption gap. A prediction only creates value if acted on. If maintenance teams distrust alerts, face alert fatigue, or the outputs don't fit existing scheduling/CMMS workflows, nothing changes operationally even with a working model.\n\n4. Value not captured/measured correctly. Savings ma",
+    "competency_ids": [
+      "C02",
+      "C08",
+      "C13",
+      "C14",
+      "C15"
+    ],
+    "canonical_competency_ids": [
+      "C13",
+      "C08",
+      "C14",
+      "C02",
+      "C15"
+    ],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T18:41:25.362890Z",
+    "source_version": "case-v1.0",
+    "attempt_id": "CA-f6d67729",
+    "question_id": "case-ai-ml-01",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912184237862077",
+    "candidate_id": "cand-jhon-9g1s",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "If this is your own resume under a different name (e.g., a legal name mismatch, or I have outdated info) \u2014 let me know and I'll use the correct details going forward.\nIf you're evaluating Farhan as a candidate (e.g., for the METI platform, a hiring decision, or benchmarking) \u2014 I can help you analyze his resume, generate interview questions for him, or map his experience to a role.\nIf you want to practice describing baseline/intervention/measurement/contribution for a project like the TFT seismic model \u2014 I can help you do that exercise for a project that's actually yours.",
+    "competency_ids": [
+      "C02"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:42:37.862077Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-d4056cab",
+    "question_id": "q-c3075ec4",
+    "pathway": "role-ai-ml-consultant",
+    "category": "CLAIM_VERIFICATION",
+    "source_evidence_ids": [
+      "E-f9430131"
+    ],
+    "evidence_to_verify": "Farhan Akhtar Makandar"
+  },
+  {
+    "id": "INT-E-20260912184331914665",
+    "candidate_id": "cand-jhon-9g1s",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "What it suggests (baseline \u2192 intervention \u2192 measurement, as best inferred from the resume):\n\nBaseline: Prior to his contribution, the lab likely had classical baselines (XGBoost, KNN) for seismic response prediction \u2014 the resume states the TFT model beat these by 22%, so that comparison was presumably part of \"model validation.\"\nIntervention: He built and benchmarked transformer architectures (TFT, SAINT), which implies the \"performance analysis\" refers to comparing these new architectures against the classical baselines and each other.\nMeasurement method: Unstated precisely \u2014 the resume gives a single headline number (22% higher accuracy) but doesn't specify the metric (RMSE? MAE? classification accuracy on a threshold?), the validation sch",
+    "competency_ids": [
+      "C04"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:43:31.914665Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-d4056cab",
+    "question_id": "q-2828b7b3",
+    "pathway": "role-ai-ml-consultant",
+    "category": "CLAIM_VERIFICATION",
+    "source_evidence_ids": [
+      "E-d9296a6e"
+    ],
+    "evidence_to_verify": "Conducted performance analysis, model validation, and prepared technical reports for internal review."
+  },
+  {
+    "id": "INT-E-20260912184402074964",
+    "candidate_id": "cand-jhon-9g1s",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I don't have any record of you having worked on an actual Enterprise AI Transformation consulting engagement \u2014 your background on file is a B.E. in AI/ML and an AI/ML internship at Contriver, not a consulting engagement history. I can't fabricate a project and present it as something you did \u2014 that would be misrepresenting your experience, which will backfire badly if used in an interview or application.\n\nA few honest ways to move forward:\n\nIf you've actually done something like this (even informally \u2014 a class project, hackathon, internship task that touched multiple stakeholders) \u2014 tell me the real details and I'll help you frame it properly.\nIf you're preparing for a case-style interview question and don't have real experience to draw on, I can help you construct a strong hypothetical answer \u2014 but framed honestly as \"here's how I'd approach it\" rather than \"here's what I did.\" That's actually the expected and appropriate answer for someone without prior consulting experience being asked this in an interview.\nIf this is for METI or another assessment context and you want a demonstration answer for how a strong candidate would structure this, I can build that out clearly labeled as illustrative.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:44:02.074964Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-d4056cab",
+    "question_id": "q-b2f005d8",
+    "pathway": "role-ai-ml-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "INT-E-20260912184409114669",
+    "candidate_id": "cand-jhon-9g1s",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "Describe a complex consulting engagement where you evaluated Learning Agility / Adaptability. How did you structure the approach and manage conflicting stakeholder priorities?",
+    "competency_ids": [
+      "C14"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:44:09.114669Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-d4056cab",
+    "question_id": "q-83b7b4b6",
+    "pathway": "role-ai-ml-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Learning Agility / Adaptability"
+  },
+  {
+    "id": "INT-E-20260912184438123527",
+    "candidate_id": "cand-jhon-9g1s",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "Say so, then pivot to the closest real thing you've done \u2014 even a class project, capstone, internship task, or team project \u2014 that involved structuring an ambiguous problem and navigating different people's priorities. Interviewers generally respect \"I haven't run a formal consulting engagement, but here's a comparable situation...\" far more than a fabricated story that falls apart under a follow-up question.\n\nWhat I can actually do right now:\n\nHelp you identify a real experience from your background (even a small one) that maps to \"problem structuring\" and \"conflicting priorities,\" and shape it into a STAR answer",
+    "competency_ids": [
+      "C09"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:44:38.123527Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-d4056cab",
+    "question_id": "q-ccfe36a6",
+    "pathway": "role-ai-ml-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Problem Structuring & Commercial Thinking"
+  },
+  {
+    "id": "INT-E-20260912184445083115",
+    "candidate_id": "cand-jhon-9g1s",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "Describe a complex consulting engagement where you evaluated Problem Structuring & Commercial Thinking. How did you structure the approach and manage conflicting stakeholder priorities?",
+    "competency_ids": [
+      "C02"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:44:45.083115Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-d4056cab",
+    "question_id": "q-b5ac1061",
+    "pathway": "role-ai-ml-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Research & Insight"
+  },
+  {
+    "id": "E-365b0bc2",
+    "candidate_id": "cand-ram-yuab",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "SARTHAK B C\nsarthakai.eng@gmail.com\n+91 9535692153\nBengaluru, India\nlinkedin.com/in/sarthak-gowda-886b62269\ngithub.com/sarthak-engineer\nportfolio-website-rho-lyart-68.vercel.app\nPROFESSIONAL SUMMARY\nAI/ML Engineer with hands-on experience developing intelligent applications using Python, Machine Learning, Generative AI,\nLarge Language Models (LLMs), and Retrieval-Augmented Generation (RAG). Built full-stack AI solutions including Enterprise\nMulti-Agent AI systems, Natural Language-to-SQL platforms, AI interview systems, cloud optimization tools, and healthcare AI\napplications using FastAPI, Flask, React.js, and REST APIs. Experienced in designing scalable AI workflows, backend\ndevelopment, and applying machine learning techniques through academic projects and an AI/ML internship.\nSKILLS\nProgramming Languages:\u00a0Python, JavaScript, SQL\nAI / ML:\u00a0Machine Learning, Deep Learning, Natural Language Processing (NLP), Generative AI, Large Language Models (LLMs),\nRetrieval-Augmented Generation (RAG), Prompt Engineering, Scikit-learn, LangChain\nWeb & Backend:\u00a0FastAPI, Flask, Node.js, Express.js, React.js, REST APIs\nDatabases:\u00a0PostgreSQL, SQLite, Qdrant (Vector Database)",
+    "competency_ids": [],
+    "canonical_competency_ids": [],
+    "confidence": 0.25,
+    "created_at": "2026-09-12T18:55:00.288526Z",
+    "source_version": "resume-parser-v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "E-70a31533",
+    "candidate_id": "cand-ram-yuab",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Tools & Platforms:\u00a0Git, GitHub, Linux, Docker, Kubernetes, Hugging Face\nPROJECTS\nEnterprise Multi-Agent AI Platform\nTech Stack: Python, FastAPI, React.js, PostgreSQL, Qdrant, Docker, Sentence Transformers, RAG\n\u2022Developed a full-stack Enterprise Multi-Agent AI Platform enabling users to create multiple knowledge bases, upload PDF,\nDOCX, and TXT documents, and interact with uploaded documents using natural language conversations.\n\u2022Implemented a Retrieval-Augmented Generation (RAG) pipeline using Sentence Transformers and Qdrant for semantic\nsearch, context retrieval, and document-grounded responses with persistent conversation history.\nAI-Powered Natural Language to SQL Business Insights Dashboard\nTech Stack: Python, React.js, Flask, PostgreSQL, SQLite, Groq Llama 3.3, Pandas, Recharts\n\u2022Built a full-stack AI-powered Business Intelligence platform that converts natural language queries into executable SQL\nstatements for real-time analytics and KPI visualization.\n\u2022Integrated a multi-layered NL-to-SQL pipeline using Groq Llama 3.3, semantic query normalization, intent detection, and\nautomated SQL post-processing for secure real-time analytics.\nIntelligent Cloud Resource Optimizer",
+    "competency_ids": [],
+    "canonical_competency_ids": [],
+    "confidence": 0.25,
+    "created_at": "2026-09-12T18:55:00.295977Z",
+    "source_version": "resume-parser-v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "E-f2beb961",
+    "candidate_id": "cand-ram-yuab",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Tech Stack: Python, FastAPI, React.js, Node.js, NumPy, Kubernetes, Recharts\n\u2022Designed a multi-tier cloud optimization platform that detects zombie resources and orphaned workloads using statistical\nanomaly detection and real-time Kubernetes telemetry analysis.\n\u2022Implemented AI-driven cost optimization and right-sizing engines using FastAPI and NumPy, translating infrastructure\ninefficiencies into actionable financial insights and projected cost savings.\nMulti-Modal AI System for Parkinson\u2019s Disease Detection\nTech Stack: Python, FastAPI, React.js, Scikit-learn, OpenCV, Librosa, Tailwind CSS\n\u2022Engineered a multi-modal AI system for Parkinson's disease detection by analyzing voice recordings and hand-drawn spiral\nand wave patterns using Random Forest models, achieving over 94% prediction accuracy.\n\u2022Implemented feature extraction Pipeline using Librosa (MFCC) for speech analysis and OpenCV/Scikit-image (HOG) for image-\nbased motor pattern analysis.\nPROFESSIONAL EXPERIENCE\nAI/ML Intern, Contriver | Bengaluru, Karnataka\n02/2026 \u2013 05/2026\n\u2022Completed structured training in Python, Machine Learning, Deep Learning, Neural Networks, and Artificial Intelligence,",
+    "competency_ids": [],
+    "canonical_competency_ids": [],
+    "confidence": 0.25,
+    "created_at": "2026-09-12T18:55:00.317554Z",
+    "source_version": "resume-parser-v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "E-0d88bd7a",
+    "candidate_id": "cand-ram-yuab",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "building a strong foundation in core AI/ML concepts and practical machine learning workflows.\n\u2022Applied machine learning concepts through guided hands-on exercises involving data preprocessing, feature engineering,\nmodel training, model evaluation, and prediction workflows using Python, Pandas, NumPy, and Scikit-learn.\n\u2022Gained practical exposure to machine learning workflows through a traffic analytics and intersection conflict prediction use\ncase, strengthening understanding of real-world AI applications.\nEDUCATION\nYenepoya Institute of Technology, Mangalore, Karnataka\n2022-2026\nBachelor of Engineering in Artificial Intelligence and Machine Learning\nCERTIFICATIONS\n\u2022Microsoft Certified: Azure Fundamentals\n\u2022Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate\n\u2022Machine Learning with Python \u2013 IBM / Cognitive Class",
+    "competency_ids": [],
+    "canonical_competency_ids": [],
+    "confidence": 0.25,
+    "created_at": "2026-09-12T18:55:00.338024Z",
+    "source_version": "resume-parser-v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-7c5e2e86",
+    "candidate_id": "cand-ram-yuab",
+    "source": "diagnostic_assessment:ATT-a2928084",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A client says revenue has fallen 12%. Describe the first 3 things you would investigate before proposing a solution.\n\nCandidate response: jytjytjtyj",
+    "competency_ids": [
+      "C03",
+      "C09"
+    ],
+    "canonical_competency_ids": [
+      "C03",
+      "C13"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:55:27.744776Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-a2928084",
+    "question_id": "Q02",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-8ce4d9ca",
+    "candidate_id": "cand-ram-yuab",
+    "source": "diagnostic_assessment:ATT-a2928084",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A senior stakeholder strongly disagrees with your recommendation and wants a different approach. How would you handle the situation?\n\nCandidate response: jtjy",
+    "competency_ids": [
+      "C12",
+      "C14"
+    ],
+    "canonical_competency_ids": [
+      "C16",
+      "C19"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:55:27.744776Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-a2928084",
+    "question_id": "Q09",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-a6a32946",
+    "candidate_id": "cand-ram-yuab",
+    "source": "diagnostic_assessment:ATT-a2928084",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: Client has three initiatives but limited budget. Which is the strongest first step?\n\nCandidate response: Implement the cheapest initiative immediately for quick wins.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [
+      "C01"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:55:27.744776Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-a2928084",
+    "question_id": "Q01",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-a202f815",
+    "candidate_id": "cand-ram-yuab",
+    "source": "diagnostic_assessment:ATT-a2928084",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A transformation programme has strong executive sponsorship but poor adoption. What would you investigate and what would you change?\n\nCandidate response: jtyjytjyt",
+    "competency_ids": [
+      "C05"
+    ],
+    "canonical_competency_ids": [
+      "C08",
+      "C09"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:55:27.744776Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-a2928084",
+    "question_id": "Q05",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-ccadbb55",
+    "candidate_id": "cand-ram-yuab",
+    "source": "diagnostic_assessment:ATT-a2928084",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A client wants to deploy GenAI into customer service. What would you assess before recommending implementation?\n\nCandidate response: ytjytj",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [
+      "C12"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:55:27.744776Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-a2928084",
+    "question_id": "Q06",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-6703e27d",
+    "candidate_id": "cand-ram-yuab",
+    "source": "diagnostic_assessment:ATT-a2928084",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A business has high customer complaints concentrated around onboarding. Explain how you would analyse the value chain to identify where intervention is needed.\n\nCandidate response: ytjytj",
+    "competency_ids": [
+      "C03"
+    ],
+    "canonical_competency_ids": [
+      "C04"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T18:55:27.744776Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-a2928084",
+    "question_id": "Q03",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "case-cand-ram-yuab-20260912185539062161",
+    "candidate_id": "cand-ram-yuab",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "CASE TITLE:\nGenAI Customer Operations Transformation\n\nCASE:\nA large telecommunications company wants to introduce Generative AI into their customer operations. They have high call volumes, low customer satisfaction, and aging legacy CRM systems. The board is pushing for AI adoption, but the operations team is concerned about risks, hallucination, and job displacement.\n\nINSTRUCTIONS:\nPlease provide a structured assessment of this situation. Discuss the business value, potential risks, transformation implications, operating considerations, and a recommended implementation approach.\n\nCANDIDATE RESPONSE:\n large telecommunications company wants to introduce Generative AI into their customer operations. They have high call volumes, low customer satisfaction, and aging legacy CRM systems. The board is pushing for AI adoption, but the operations team is concerned about risks, hallucination, and job displacement.\n\nDELIVERABLE\nPlease provide a structured asse",
+    "competency_ids": [
+      "C01",
+      "C04",
+      "C08",
+      "C12",
+      "C15"
+    ],
+    "canonical_competency_ids": [
+      "C12",
+      "C08",
+      "C04",
+      "C01",
+      "C15"
+    ],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T18:55:39.062161Z",
+    "source_version": "case-v1.0",
+    "attempt_id": "CA-91bc13f0",
+    "question_id": "case-ai-trans-01",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912185555760617",
+    "candidate_id": "cand-ram-yuab",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "You mention: 'sarthakai.eng@gmail.com'. Walk through the baseline, intervention, measurement method, and your personal contribution.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:55:55.760617Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-f1fb2e2b",
+    "question_id": "q-698dce99",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "CLAIM_VERIFICATION",
+    "source_evidence_ids": [
+      "E-365b0bc2"
+    ],
+    "evidence_to_verify": "sarthakai.eng@gmail.com"
+  },
+  {
+    "id": "INT-E-20260912185559616034",
+    "candidate_id": "cand-ram-yuab",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "You mention: 'sarthakai.eng@gmail.com'. Walk through the baseline, intervention, measurement method, and your personal contribution.",
+    "competency_ids": [
+      "C03"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:55:59.616034Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-f1fb2e2b",
+    "question_id": "q-870b9f23",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "CLAIM_VERIFICATION",
+    "source_evidence_ids": [
+      "E-70a31533"
+    ],
+    "evidence_to_verify": "Tools & Platforms:\u00a0Git, GitHub, Linux, Docker, Kubernetes, Hugging Face"
+  },
+  {
+    "id": "INT-E-20260912185604582016",
+    "candidate_id": "cand-ram-yuab",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "You mention: 'sarthakai.eng@gmail.com'. Walk through the baseline, intervention, measurement method, and your personal contribution.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:56:04.582016Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-f1fb2e2b",
+    "question_id": "q-5a1d4dc1",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "INT-E-20260912185608324654",
+    "candidate_id": "cand-ram-yuab",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "You mention: 'sarthakai.eng@gmail.com'. Walk through the baseline, intervention, measurement method, and your personal contribution.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:56:08.324654Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-f1fb2e2b",
+    "question_id": "q-2a74dae3",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Strategy & Enterprise Thinking"
+  },
+  {
+    "id": "INT-E-20260912185611703779",
+    "candidate_id": "cand-ram-yuab",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "You mention: 'sarthakai.eng@gmail.com'. Walk through the baseline, intervention, measurement method, and your personal contribution.",
+    "competency_ids": [
+      "C05"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:56:11.703779Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-f1fb2e2b",
+    "question_id": "q-0a303cf5",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Transformation & Change"
+  },
+  {
+    "id": "INT-E-20260912185614980173",
+    "candidate_id": "cand-ram-yuab",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "You mention: 'sarthakai.eng@gmail.com'. Walk through the baseline, intervention, measurement method, and your personal contribution.",
+    "competency_ids": [
+      "C09"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T18:56:14.981254Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-f1fb2e2b",
+    "question_id": "q-c60cceab",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Problem Structuring & Commercial Thinking"
+  },
+  {
+    "id": "EV-TEST-CLAIM-001",
+    "candidate_id": "cand-test-claim-verification",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Reduced model inference latency by 40% using TensorRT and vLLM acceleration pipeline.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:09:08.654748Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-RESUME-TRI-01",
+    "candidate_id": "cand-test-triangulation",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Implemented enterprise multi-agent platform for real-time document search.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:09:10.293153Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-CASE-TRI-02",
+    "candidate_id": "cand-test-triangulation",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "Designed retail bank onboarding automation architecture and TOM roadmap.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T19:09:10.293153Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912190914483870",
+    "candidate_id": "cand-test-provenance",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I led the enterprise architecture team through baseline measurement, pilot validation, and phased rollout.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T19:09:14.483870Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-de015106",
+    "question_id": "q-7cda409e",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "EV-REV-test-candidate-review-C01-1789240155",
+    "candidate_id": "test-candidate-review",
+    "source": "Assessor Assessor-X",
+    "evidence_type": "human_review",
+    "text": "AI Score: 50.0 -> Human Score: 75.0. Notes: Evidence from interview was stronger than initially captured.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.95,
+    "created_at": "2026-09-12T19:09:15.557990Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-TEST-CLAIM-001",
+    "candidate_id": "cand-test-claim-verification",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Reduced model inference latency by 40% using TensorRT and vLLM acceleration pipeline.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:14:01.539011Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-RESUME-TRI-01",
+    "candidate_id": "cand-test-triangulation",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Implemented enterprise multi-agent platform for real-time document search.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:14:02.801094Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-CASE-TRI-02",
+    "candidate_id": "cand-test-triangulation",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "Designed retail bank onboarding automation architecture and TOM roadmap.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T19:14:02.801094Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912191406964972",
+    "candidate_id": "cand-test-provenance",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I led the enterprise architecture team through baseline measurement, pilot validation, and phased rollout.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T19:14:06.964972Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-5313311e",
+    "question_id": "q-d96f5489",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "EV-REV-test-candidate-review-C01-1789240448",
+    "candidate_id": "test-candidate-review",
+    "source": "Assessor Assessor-X",
+    "evidence_type": "human_review",
+    "text": "AI Score: 50.0 -> Human Score: 75.0. Notes: Evidence from interview was stronger than initially captured.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.95,
+    "created_at": "2026-09-12T19:14:08.097671Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-TEST-CLAIM-001",
+    "candidate_id": "cand-test-claim-verification",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Reduced model inference latency by 40% using TensorRT and vLLM acceleration pipeline.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:19:10.991672Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-RESUME-TRI-01",
+    "candidate_id": "cand-test-triangulation",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Implemented enterprise multi-agent platform for real-time document search.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:19:12.593800Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-CASE-TRI-02",
+    "candidate_id": "cand-test-triangulation",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "Designed retail bank onboarding automation architecture and TOM roadmap.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T19:19:12.593800Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912191919792481",
+    "candidate_id": "cand-test-provenance",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I led the enterprise architecture team through baseline measurement, pilot validation, and phased rollout.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T19:19:19.792481Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-6b7b4436",
+    "question_id": "q-09dbfb21",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "EV-REV-test-candidate-review-C01-1789240760",
+    "candidate_id": "test-candidate-review",
+    "source": "Assessor Assessor-X",
+    "evidence_type": "human_review",
+    "text": "AI Score: 50.0 -> Human Score: 75.0. Notes: Evidence from interview was stronger than initially captured.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.95,
+    "created_at": "2026-09-12T19:19:20.905212Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-TEST-CLAIM-001",
+    "candidate_id": "cand-test-claim-verification",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Reduced model inference latency by 40% using TensorRT and vLLM acceleration pipeline.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:27:57.880262Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-RESUME-TRI-01",
+    "candidate_id": "cand-test-triangulation",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Implemented enterprise multi-agent platform for real-time document search.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:28:00.318635Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-CASE-TRI-02",
+    "candidate_id": "cand-test-triangulation",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "Designed retail bank onboarding automation architecture and TOM roadmap.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T19:28:00.318635Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912192803180732",
+    "candidate_id": "cand-test-provenance",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I led the enterprise architecture team through baseline measurement, pilot validation, and phased rollout.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T19:28:03.180732Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-474c4581",
+    "question_id": "q-664ae991",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "EV-REV-test-candidate-review-C01-1789241284",
+    "candidate_id": "test-candidate-review",
+    "source": "Assessor Assessor-X",
+    "evidence_type": "human_review",
+    "text": "AI Score: 50.0 -> Human Score: 75.0. Notes: Evidence from interview was stronger than initially captured.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.95,
+    "created_at": "2026-09-12T19:28:04.349203Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-56397da1",
+    "candidate_id": "cand-alex-mercer-9vxe",
+    "source": "diagnostic_assessment:ATT-b82be24b",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A client says revenue has fallen 12%. Describe the first 3 things you would investigate before proposing a solution.\n\nCandidate response: I would investigate historical revenue trends, customer segment breakdown, and competitive pricing dynamics to understand root cause.",
+    "competency_ids": [
+      "C03",
+      "C09"
+    ],
+    "canonical_competency_ids": [
+      "C03",
+      "C13"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T19:32:26.884313Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-b82be24b",
+    "question_id": "Q02",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-e2f49531",
+    "candidate_id": "cand-alex-mercer-9vxe",
+    "source": "diagnostic_assessment:ATT-b82be24b",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A senior stakeholder strongly disagrees with your recommendation and wants a different approach. How would you handle the situation?\n\nCandidate response: I would schedule a 1-on-1 alignment session to understand their underlying concerns, review evidence together, and find common ground.",
+    "competency_ids": [
+      "C12",
+      "C14"
+    ],
+    "canonical_competency_ids": [
+      "C16",
+      "C19"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T19:32:26.884313Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-b82be24b",
+    "question_id": "Q09",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-b9038279",
+    "candidate_id": "cand-alex-mercer-9vxe",
+    "source": "diagnostic_assessment:ATT-b82be24b",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: Client has three initiatives but limited budget. Which is the strongest first step?\n\nCandidate response: Assess alignment with strategic objectives and financial ROI.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [
+      "C01"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T19:32:26.884313Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-b82be24b",
+    "question_id": "Q01",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-ba46e87b",
+    "candidate_id": "cand-alex-mercer-9vxe",
+    "source": "diagnostic_assessment:ATT-b82be24b",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A transformation programme has strong executive sponsorship but poor adoption. What would you investigate and what would you change?\n\nCandidate response: I would evaluate end-user pain points, training completeness, and change management communication to align incentives.",
+    "competency_ids": [
+      "C05"
+    ],
+    "canonical_competency_ids": [
+      "C08",
+      "C09"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T19:32:26.884313Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-b82be24b",
+    "question_id": "Q05",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-06e42690",
+    "candidate_id": "cand-alex-mercer-9vxe",
+    "source": "diagnostic_assessment:ATT-b82be24b",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A client wants to deploy GenAI into customer service. What would you assess before recommending implementation?\n\nCandidate response: I would evaluate response accuracy compliance, data privacy guardrails, escalation paths, and operational cost trade-offs.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [
+      "C12"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T19:32:26.884313Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-b82be24b",
+    "question_id": "Q06",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-dfcf5f56",
+    "candidate_id": "cand-alex-mercer-9vxe",
+    "source": "diagnostic_assessment:ATT-b82be24b",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A business has high customer complaints concentrated around onboarding. Explain how you would analyse the value chain to identify where intervention is needed.\n\nCandidate response: I would map each step of the onboarding journey from account sign-up to first value delivery, identifying friction points, drop-off rates, and customer feedback at each stage.",
+    "competency_ids": [
+      "C03"
+    ],
+    "canonical_competency_ids": [
+      "C04"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T19:32:26.884313Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-b82be24b",
+    "question_id": "Q03",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "case-cand-alex-mercer-9vxe-20260912193313374033",
+    "candidate_id": "cand-alex-mercer-9vxe",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "CASE TITLE:\nGenAI Customer Operations Transformation\n\nCASE:\nA large telecommunications company wants to introduce Generative AI into their customer operations. They have high call volumes, low customer satisfaction, and aging legacy CRM systems. The board is pushing for AI adoption, but the operations team is concerned about risks, hallucination, and job displacement.\n\nINSTRUCTIONS:\nPlease provide a structured assessment of this situation. Discuss the business value, potential risks, transformation implications, operating considerations, and a recommended implementation approach.\n\nCANDIDATE RESPONSE:\n1. Business Value & Opportunity: Implement GenAI co-pilot to assist agents with call summarization, real-time knowledge retrieval, and tier-1 query automation, driving down AHT and boosting CSAT. 2. Risk Management: Establish RAG with strict data grounding, PII sanitization, and Human-in-the-Loop governance to prevent hallucination. 3. Transformation & Workforces: Reskill staff into high-value advisors; position AI as an assistant to ease job displacement concerns. 4. Operating Considerations: Build API middleware to connect with legacy CRM without requiring full system rewrite. 5. Roadmap: Phase 1 internal pilot, Phase 2 low-risk self-service expansion, Phase 3 enterprise-wide deployment.",
+    "competency_ids": [
+      "C01",
+      "C04",
+      "C08",
+      "C12",
+      "C15"
+    ],
+    "canonical_competency_ids": [
+      "C12",
+      "C08",
+      "C04",
+      "C01",
+      "C15"
+    ],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T19:33:13.374033Z",
+    "source_version": "case-v1.0",
+    "attempt_id": "CA-5e095908",
+    "question_id": "case-ai-trans-01",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912193406812286",
+    "candidate_id": "cand-alex-mercer-9vxe",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I led an enterprise AI roadmap for a retail bank. I structured the approach into 3 tracks: Business Value, Technical Architecture, and Governance/Change. To manage conflicting priorities between IT and Business, we established an ROI vs Feasibility matrix and executive steering committee.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T19:34:06.812286Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-6c0cab2f",
+    "question_id": "q-41b86cb6",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "INT-E-20260912193432317751",
+    "candidate_id": "cand-alex-mercer-9vxe",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I worked with an enterprise executive team to realign their digital strategy with overall corporate goals. I created an integrated framework linking business capabilities to strategic pillars and used scenario planning to align cross-functional leaders.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T19:34:32.317751Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-6c0cab2f",
+    "question_id": "q-17973292",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Strategy & Enterprise Thinking"
+  },
+  {
+    "id": "INT-E-20260912193459270665",
+    "candidate_id": "cand-alex-mercer-9vxe",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "During a major operating model change, I used the ADKAR model to structure organizational readiness, set up change champion networks across business units, and established transparent feedback loops to align leadership and front-line staff.",
+    "competency_ids": [
+      "C05"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T19:34:59.270665Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-6c0cab2f",
+    "question_id": "q-7a2b5018",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Transformation & Change"
+  },
+  {
+    "id": "INT-E-20260912193525882913",
+    "candidate_id": "cand-alex-mercer-9vxe",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I structured a multi-million dollar business case using MECE issue trees to decompose cost vs revenue levers. I aligned stakeholders by grounding financial model assumptions in benchmark data and pilot test results.",
+    "competency_ids": [
+      "C09"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T19:35:25.882913Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-6c0cab2f",
+    "question_id": "q-c6b0815e",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Problem Structuring & Commercial Thinking"
+  },
+  {
+    "id": "INT-E-20260912193555645917",
+    "candidate_id": "cand-alex-mercer-9vxe",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I mapped end-to-end supply chain processes across procurement, manufacturing, and fulfillment. By identifying bottlenecks and cost drivers at each handoff point, I aligned departmental VPs on streamlined cross-functional SLAs.",
+    "competency_ids": [
+      "C03"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T19:35:55.645917Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-6c0cab2f",
+    "question_id": "q-e20a7b33",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Value Chain & Enterprise Analysis"
+  },
+  {
+    "id": "INT-E-20260912193624686583",
+    "candidate_id": "cand-alex-mercer-9vxe",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I designed a future-state Target Operating Model for an enterprise client transitioning to agile product squads. I defined clear governance, decision rights (RACI matrix), and capability maturity metrics to resolve operational friction.",
+    "competency_ids": [
+      "C04"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T19:36:24.686583Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-6c0cab2f",
+    "question_id": "q-764ca2aa",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Process / Capability / TOM"
+  },
+  {
+    "id": "EV-TEST-CLAIM-001",
+    "candidate_id": "cand-test-claim-verification",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Reduced model inference latency by 40% using TensorRT and vLLM acceleration pipeline.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:43:20.052336Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-RESUME-TRI-01",
+    "candidate_id": "cand-test-triangulation",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Implemented enterprise multi-agent platform for real-time document search.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:43:22.702042Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-CASE-TRI-02",
+    "candidate_id": "cand-test-triangulation",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "Designed retail bank onboarding automation architecture and TOM roadmap.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T19:43:22.702042Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912194327194617",
+    "candidate_id": "cand-test-provenance",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I led the enterprise architecture team through baseline measurement, pilot validation, and phased rollout.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T19:43:27.196638Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-9d65505e",
+    "question_id": "q-b5065577",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "EV-NO-VALID-01",
+    "candidate_id": "cand-test-no-valid-claim",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "sarthakai.eng@gmail.com\nhttps://github.com/username\n+91 9999999999",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:43:27.227091Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-VALID-SOURCE-01",
+    "candidate_id": "cand-test-source-evidence",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Built a Python ML pipeline to detect Parkinson's disease using multimodal data.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:43:29.030943Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912194757631012",
+    "candidate_id": "cand-qa-candidate-int-ucn3",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "In a recent enterprise AI transformation engagement for a major healthcare organization, I led the evaluation and strategy for integrating multimodal machine learning models into clinical diagnostic workflows. To structure our approach, we established a four-phase framework: 1. Capability Assessment evaluating infrastructure and data governance. 2. Value Prioritization mapping high-impact clinical use cases (such as predictive diagnostics for neurodegenerative conditions like Parkinson's disease using multimodal data) against technical feasibility. 3. Architecture & ML Pipeline Design ensuring data privacy and compliance. 4. Pilot Validation deploying prototype models in staging environments. To manage conflicting stakeholder priorities, I established transparent governance, weekly steering committees, and explainable AI dashboards to align clinical leadership, IT security, and executive management.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T19:47:57.631012Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-c7100638",
+    "question_id": "q-f1a7506b",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "EV-TEST-CLAIM-001",
+    "candidate_id": "cand-test-claim-verification",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Reduced model inference latency by 40% using TensorRT and vLLM acceleration pipeline.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:51:31.323735Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-RESUME-TRI-01",
+    "candidate_id": "cand-test-triangulation",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Implemented enterprise multi-agent platform for real-time document search.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:51:32.217525Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-CASE-TRI-02",
+    "candidate_id": "cand-test-triangulation",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "Designed retail bank onboarding automation architecture and TOM roadmap.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T19:51:32.217525Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912195144965236",
+    "candidate_id": "cand-test-provenance",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I led the enterprise architecture team through baseline measurement, pilot validation, and phased rollout.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T19:51:44.965236Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-b4c9ced9",
+    "question_id": "q-236c728e",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "EV-NO-VALID-01",
+    "candidate_id": "cand-test-no-valid-claim",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "sarthakai.eng@gmail.com\nhttps://github.com/username\n+91 9999999999",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:51:44.989367Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-VALID-SOURCE-01",
+    "candidate_id": "cand-test-source-evidence",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Built a Python ML pipeline to detect Parkinson's disease using multimodal data.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:51:45.545255Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-REV-test-candidate-review-C01-1789242707",
+    "candidate_id": "test-candidate-review",
+    "source": "Assessor Assessor-X",
+    "evidence_type": "human_review",
+    "text": "AI Score: 50.0 -> Human Score: 75.0. Notes: Evidence from interview was stronger than initially captured.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.95,
+    "created_at": "2026-09-12T19:51:47.805113Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-TEST-CLAIM-001",
+    "candidate_id": "cand-test-claim-verification",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Reduced model inference latency by 40% using TensorRT and vLLM acceleration pipeline.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:56:39.240081Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-RESUME-TRI-01",
+    "candidate_id": "cand-test-triangulation",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Implemented enterprise multi-agent platform for real-time document search.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:56:48.181541Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-CASE-TRI-02",
+    "candidate_id": "cand-test-triangulation",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "Designed retail bank onboarding automation architecture and TOM roadmap.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T19:56:48.181541Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912195650176559",
+    "candidate_id": "cand-test-provenance",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I led the enterprise architecture team through baseline measurement, pilot validation, and phased rollout.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T19:56:50.176559Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-197194d6",
+    "question_id": "q-9958f9c3",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "EV-NO-VALID-01",
+    "candidate_id": "cand-test-no-valid-claim",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "sarthakai.eng@gmail.com\nhttps://github.com/username\n+91 9999999999",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:56:50.202386Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-VALID-SOURCE-01",
+    "candidate_id": "cand-test-source-evidence",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Built a Python ML pipeline to detect Parkinson's disease using multimodal data.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T19:56:50.724334Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-REV-test-candidate-review-C01-1789243011",
+    "candidate_id": "test-candidate-review",
+    "source": "Assessor Assessor-X",
+    "evidence_type": "human_review",
+    "text": "AI Score: 50.0 -> Human Score: 75.0. Notes: Evidence from interview was stronger than initially captured.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.95,
+    "created_at": "2026-09-12T19:56:51.910952Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-TEST-CLAIM-001",
+    "candidate_id": "cand-test-claim-verification",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Reduced model inference latency by 40% using TensorRT and vLLM acceleration pipeline.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T20:05:08.619353Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-RESUME-TRI-01",
+    "candidate_id": "cand-test-triangulation",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Implemented enterprise multi-agent platform for real-time document search.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T20:05:09.567285Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-CASE-TRI-02",
+    "candidate_id": "cand-test-triangulation",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "Designed retail bank onboarding automation architecture and TOM roadmap.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T20:05:09.567285Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912200511519403",
+    "candidate_id": "cand-test-provenance",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I led the enterprise architecture team through baseline measurement, pilot validation, and phased rollout.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T20:05:11.519403Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-9e50e0eb",
+    "question_id": "q-2a0ce7c5",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "EV-NO-VALID-01",
+    "candidate_id": "cand-test-no-valid-claim",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "sarthakai.eng@gmail.com\nhttps://github.com/username\n+91 9999999999",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T20:05:11.542047Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-VALID-SOURCE-01",
+    "candidate_id": "cand-test-source-evidence",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Built a Python ML pipeline to detect Parkinson's disease using multimodal data.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T20:05:11.976658Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-REV-test-candidate-review-C01-1789243513",
+    "candidate_id": "test-candidate-review",
+    "source": "Assessor Assessor-X",
+    "evidence_type": "human_review",
+    "text": "AI Score: 50.0 -> Human Score: 75.0. Notes: Evidence from interview was stronger than initially captured.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.95,
+    "created_at": "2026-09-12T20:05:13.225567Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-TEST-CLAIM-001",
+    "candidate_id": "cand-test-claim-verification",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Reduced model inference latency by 40% using TensorRT and vLLM acceleration pipeline.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T20:06:44.078221Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-RESUME-TRI-01",
+    "candidate_id": "cand-test-triangulation",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Implemented enterprise multi-agent platform for real-time document search.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T20:06:46.195625Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-CASE-TRI-02",
+    "candidate_id": "cand-test-triangulation",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "Designed retail bank onboarding automation architecture and TOM roadmap.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T20:06:46.195625Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912200652124418",
+    "candidate_id": "cand-test-provenance",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I led the enterprise architecture team through baseline measurement, pilot validation, and phased rollout.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T20:06:52.124418Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-1d65da58",
+    "question_id": "q-18539713",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "EV-NO-VALID-01",
+    "candidate_id": "cand-test-no-valid-claim",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "sarthakai.eng@gmail.com\nhttps://github.com/username\n+91 9999999999",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T20:06:52.144324Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-VALID-SOURCE-01",
+    "candidate_id": "cand-test-source-evidence",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Built a Python ML pipeline to detect Parkinson's disease using multimodal data.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T20:06:52.676542Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-REV-test-candidate-review-C01-1789243613",
+    "candidate_id": "test-candidate-review",
+    "source": "Assessor Assessor-X",
+    "evidence_type": "human_review",
+    "text": "AI Score: 50.0 -> Human Score: 75.0. Notes: Evidence from interview was stronger than initially captured.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.95,
+    "created_at": "2026-09-12T20:06:53.860828Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-TEST-CLAIM-001",
+    "candidate_id": "cand-test-claim-verification",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Reduced model inference latency by 40% using TensorRT and vLLM acceleration pipeline.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T20:07:31.649534Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-RESUME-TRI-01",
+    "candidate_id": "cand-test-triangulation",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Implemented enterprise multi-agent platform for real-time document search.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T20:07:33.641510Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-CASE-TRI-02",
+    "candidate_id": "cand-test-triangulation",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "Designed retail bank onboarding automation architecture and TOM roadmap.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T20:07:33.641510Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912200735610071",
+    "candidate_id": "cand-test-provenance",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I led the enterprise architecture team through baseline measurement, pilot validation, and phased rollout.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T20:07:35.611496Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-e4e03090",
+    "question_id": "q-7b425038",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "EV-NO-VALID-01",
+    "candidate_id": "cand-test-no-valid-claim",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "sarthakai.eng@gmail.com\nhttps://github.com/username\n+91 9999999999",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T20:07:35.632260Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-VALID-SOURCE-01",
+    "candidate_id": "cand-test-source-evidence",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Built a Python ML pipeline to detect Parkinson's disease using multimodal data.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T20:07:36.067779Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-REV-test-candidate-review-C01-1789243657",
+    "candidate_id": "test-candidate-review",
+    "source": "Assessor Assessor-X",
+    "evidence_type": "human_review",
+    "text": "AI Score: 50.0 -> Human Score: 75.0. Notes: Evidence from interview was stronger than initially captured.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.95,
+    "created_at": "2026-09-12T20:07:37.384895Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "E-5feec0b6",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "HIMAVI H M\nhimavihm222@gmail.com | +91 8660344958 | Bengaluru, India | linkedin.com/in/himavi-h-m\ngithub.com/Himavigithub | himavi-portfolio-craft.lovable.app\nProfessional Summary\nData Analyst with hands-on experience in SQL, Python, Power BI, and Excel, translating large and complex datasets into actionable\nbusiness insights. Skilled in data cleaning, exploratory data analysis, dashboard development, trend analysis, and stakeholder-ready\nreporting. Delivered measurable impact including a 25% improvement in model accuracy and a projected 15% reduction in customer\nchurn through data-driven analysis and predictive modeling. Passionate about leveraging business analytics and data visualization\nto solve real-world problems and support data-driven decision-making.\nTechnical Skills\nProgramming: Python, SQL\nData Analysis: Data Cleaning, Data Wrangling, EDA, Statistical Analysis, Data Validation, Trend Analysis, Root Cause Analysis\nMicrosoft Excel: Pivot Tables, VLOOKUP, XLOOKUP, INDEX-MATCH, Conditional Formatting, Dashboards\nVisualization & BI: Power BI, Tableau, Matplotlib, Business Analytics, Business Intelligence, KPI Reporting\nPython Libraries: Pandas, NumPy, Scikit-learn",
+    "competency_ids": [],
+    "canonical_competency_ids": [],
+    "confidence": 0.25,
+    "created_at": "2026-09-12T20:10:59.405235Z",
+    "source_version": "resume-parser-v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "E-17e153e0",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Databases & Cloud: MySQL, MongoDB, Google Cloud Platform (GCP)\nAI & Productivity: ChatGPT, Microsoft Outlook, Word, PowerPoint, Teams\nDevelopment Tools: Git, GitHub, Jupyter Notebook, VS Code, Streamlit, Flask\nProfessional Experience\nData Analytics Virtual Internship (Job Simulation)\nJul 2025 \u2013 Jul 2025\nTata Group\n\u2022 Applied Generative AI tools for data exploration, quality assessment, and predictive modeling on structured business datasets.\n\u2022 Improved model accuracy by 25% and reduced prediction time by 30% by optimizing data pipelines and preprocessing workflows.\nMachine Learning Intern\nSep 2025 \u2013 Dec 2025\nInternsForge\n\u2022 Developed and validated machine learning models on real-world datasets, applying data cleaning and feature engineering\ntechniques to improve model reliability.\n\u2022 Collaborated with cross-functional professionals to review model performance, incorporate feedback, and refine analytical\napproach across multiple iterations.\n\u2022 Supported end-to-end analytics workflows, from data preparation through performance evaluation and reporting.\nProjects\nRetail Sales & Profitability Analysis\nSQL, Tableau, Excel",
+    "competency_ids": [],
+    "canonical_competency_ids": [],
+    "confidence": 0.25,
+    "created_at": "2026-09-12T20:10:59.418256Z",
+    "source_version": "resume-parser-v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "E-1827fa02",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "\u2022 Analyzed 50,000+ transaction records via SQL to identify sales trends and built an interactive Tableau dashboard tracking KPIs\nacross 12 stores.\n\u2022 Recommended data-driven pricing strategies projected to increase quarterly revenue by 10\u201315%.\nCustomer Retention & Churn Analysis\nPython, Pandas, Scikit-learn\n\u2022 Analyzed 7,000+ customer records to identify key churn drivers using exploratory data analysis and statistical methods.\n\u2022 Built a logistic regression model achieving 85% accuracy; recommended retention strategies estimated to reduce annual churn\nby 15%.\nSocial Media Brand Sentiment Analytics\nPython, NLP, Matplotlib\n\u2022 Analyzed 10,000+ social media posts using NLP techniques to detect sentiment trends and flag emerging brand risks.\n\u2022 Visualized a 20% spike in negative feedback via Matplotlib dashboards and generated word clouds enabling real-time strategy\nadjustments.\nEducation\nB.E. in Information Science and Engineering\n2022 \u2013 2026\nYenepoya Institute of Technology\nVisvesvaraya Technological University (VTU)\nRelevant Coursework: Database Management Systems, Statistics, Data Mining, Machine Learning, Business Analytics\nCertifications\n\u2022 Generative AI \u2014 Google Cloud",
+    "competency_ids": [],
+    "canonical_competency_ids": [],
+    "confidence": 0.25,
+    "created_at": "2026-09-12T20:10:59.460077Z",
+    "source_version": "resume-parser-v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "E-e352368b",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "\u2022 GenAI-Powered Data Analytics Job Simulation \u2014 Tata Group",
+    "competency_ids": [],
+    "canonical_competency_ids": [],
+    "confidence": 0.25,
+    "created_at": "2026-09-12T20:10:59.501294Z",
+    "source_version": "resume-parser-v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-d5f3c7ea",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "source": "diagnostic_assessment:ATT-ee481ea8",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A client says revenue has fallen 12%. Describe the first 3 things you would investigate before proposing a solution.\n\nCandidate response: I would investigate revenue breakdown by product line and customer segment, examine customer churn metrics and pricing changes, and analyze market trends and competitor activity.",
+    "competency_ids": [
+      "C03",
+      "C09"
+    ],
+    "canonical_competency_ids": [
+      "C03",
+      "C13"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T20:14:12.970254Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-ee481ea8",
+    "question_id": "Q02",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-748dcd8e",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "source": "diagnostic_assessment:ATT-ee481ea8",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A senior stakeholder strongly disagrees with your recommendation and wants a different approach. How would you handle the situation?\n\nCandidate response: I would listen actively to understand their specific underlying concerns, present data and trade-offs objectively comparing both approaches, and seek alignment on shared goals before proposing a compromise or pilot test.",
+    "competency_ids": [
+      "C12",
+      "C14"
+    ],
+    "canonical_competency_ids": [
+      "C16",
+      "C19"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T20:14:12.970254Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-ee481ea8",
+    "question_id": "Q09",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-6c0c4fc9",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "source": "diagnostic_assessment:ATT-ee481ea8",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: Client has three initiatives but limited budget. Which is the strongest first step?\n\nCandidate response: Assess alignment with strategic objectives and financial ROI.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [
+      "C01"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T20:14:12.970254Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-ee481ea8",
+    "question_id": "Q01",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-53d20184",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "source": "diagnostic_assessment:ATT-ee481ea8",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A transformation programme has strong executive sponsorship but poor adoption. What would you investigate and what would you change?\n\nCandidate response: I would investigate user workflow friction, training adequacy, and incentives. I would change change-management enablement, offer hands-on coaching, and simplify tool integration into daily workflows.",
+    "competency_ids": [
+      "C05"
+    ],
+    "canonical_competency_ids": [
+      "C08",
+      "C09"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T20:14:12.970254Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-ee481ea8",
+    "question_id": "Q05",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-6a104d6f",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "source": "diagnostic_assessment:ATT-ee481ea8",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A client wants to deploy GenAI into customer service. What would you assess before recommending implementation?\n\nCandidate response: I would assess data privacy/governance, knowledge base quality and accuracy, latency/reliability requirements, human-in-the-loop fallback controls, and expected cost per resolution.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [
+      "C12"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T20:14:12.970254Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-ee481ea8",
+    "question_id": "Q06",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EVI-70d57001",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "source": "diagnostic_assessment:ATT-ee481ea8",
+    "evidence_type": "structured_scenario",
+    "text": "Assessment question: A business has high customer complaints concentrated around onboarding. Explain how you would analyse the value chain to identify where intervention is needed.\n\nCandidate response: I would map the end-to-end onboarding journey across all touchpoints (sales handoff, account setup, initial training, ongoing support), measure drop-offs and time-to-value at each stage, correlate customer sentiment feedback with operational bottlenecks, and prioritize fixes at key leverage points.",
+    "competency_ids": [
+      "C03"
+    ],
+    "canonical_competency_ids": [
+      "C04"
+    ],
+    "confidence": 0.55,
+    "created_at": "2026-09-12T20:14:12.970254Z",
+    "source_version": "v1",
+    "attempt_id": "ATT-ee481ea8",
+    "question_id": "Q03",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "case-cand-alice-smith-y2kl-20260912201521559760",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "CASE TITLE:\nGenAI Customer Operations Transformation\n\nCASE:\nA large telecommunications company wants to introduce Generative AI into their customer operations. They have high call volumes, low customer satisfaction, and aging legacy CRM systems. The board is pushing for AI adoption, but the operations team is concerned about risks, hallucination, and job displacement.\n\nINSTRUCTIONS:\nPlease provide a structured assessment of this situation. Discuss the business value, potential risks, transformation implications, operating considerations, and a recommended implementation approach.\n\nCANDIDATE RESPONSE:\n1. Executive Summary & Business Value: Deploying Generative AI into customer operations offers substantial benefits including reduced average handle time (AHT), 24/7 self-service resolution, and reduced agent burnout by automating routine inquiries. 2. Risk Assessment & Mitigation: Implement strict Retrieval-Augmented Generation (RAG) with grounded enterprise knowledge bases and deterministic fallback to human agents for low-confidence queries. Enforce strict PII masking and compliant cloud API endpoints. Reframe AI as an agent co-pilot to alleviate displacement fears. 3. Transformation & Change Management: Establish executive governance, conduct role-based training, introduce incentives tied to adoption, and establish champion networks within call center teams. 4. Operating Considerations: Integrate lightweight middleware APIs to connect GenAI services with legacy CRM systems without requiring a full CRM overhaul upfront. 5. Recommended Implementation Roadmap: Phase 1 (Months 1-3): Internal Agent Co-Pilot MVP. Phase 2 (Months 4-6): Direct customer-facing automated chatbot with human escalation. Phase 3 (Months 7+): Full omnichannel integration and continuous fine-tuning.",
+    "competency_ids": [
+      "C01",
+      "C04",
+      "C08",
+      "C12",
+      "C15"
+    ],
+    "canonical_competency_ids": [
+      "C12",
+      "C08",
+      "C04",
+      "C01",
+      "C15"
+    ],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T20:15:21.559760Z",
+    "source_version": "case-v1.0",
+    "attempt_id": "CA-7f6a78d4",
+    "question_id": "case-ai-trans-01",
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912201624480795",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "Baseline: High volume of enterprise client inquiries requiring manual strategy alignment. Intervention: Designed an enterprise strategy framework aligning AI capabilities with key business KPIs. Measurement Method: Tracked baseline vs post-implementation engagement speed and client strategy adoption rates. Personal Contribution: Led the initial diagnostic phase, authored strategic alignment blueprints, and facilitated executive alignment workshops.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T20:16:24.480795Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-44afd52e",
+    "question_id": "q-1bd41485",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "CLAIM_VERIFICATION",
+    "source_evidence_ids": [
+      "E-5feec0b6"
+    ],
+    "evidence_to_verify": "himavihm222@gmail.com | +91 8660344958 | Bengaluru, India | linkedin.com/in/himavi-h-m"
+  },
+  {
+    "id": "INT-E-20260912201654883764",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "Baseline: Fragmented legacy database infrastructure on MySQL and MongoDB causing data latency across enterprise pipelines. Intervention: Orchestrated migration of critical data pipelines onto Google Cloud Platform (GCP) BigQuery and Cloud Storage with enterprise value stream mapping. Measurement Method: Evaluated query latency, infrastructure cost savings, and cross-departmental data accessibility metrics. Personal Contribution: Architected cloud migration strategy, defined value chain data dependencies, and led GCP implementation team.",
+    "competency_ids": [
+      "C03"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T20:16:54.883764Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-44afd52e",
+    "question_id": "q-be5ee77b",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "CLAIM_VERIFICATION",
+    "source_evidence_ids": [
+      "E-17e153e0"
+    ],
+    "evidence_to_verify": "Databases & Cloud: MySQL, MongoDB, Google Cloud Platform (GCP)"
+  },
+  {
+    "id": "INT-E-20260912201726955979",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "In a global financial services AI transformation project, executive leadership prioritized rapid AI deployment while compliance and risk teams raised concerns regarding governance and security. I structured a phased framework starting with low-risk internal knowledge retrieval tools, establishing an AI Governance Steering Committee, and aligning metrics across productivity and risk mitigation. This built cross-departmental trust and enabled smooth enterprise scaling.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T20:17:26.955979Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-44afd52e",
+    "question_id": "q-182ee4e2",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "INT-E-20260912201759537060",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "When advising a multinational enterprise on digital operational model redesign, business unit leaders sought custom local solutions while corporate IT demanded centralized standardization. I introduced an enterprise capability mapping model, categorizing core capabilities as standardized central services and contextual capabilities as local extensions. This balanced enterprise scale with regional flexibility, achieving consensus across all business units.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T20:17:59.537060Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-44afd52e",
+    "question_id": "q-a114cd5a",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Strategy & Enterprise Thinking"
+  },
+  {
+    "id": "INT-E-20260912201831087093",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "During an enterprise organizational restructure, employee resistance was high due to fear of disruption. I designed a change management program featuring change champions within each business unit, clear baseline-to-target roadmaps, and continuous feedback channels. By actively addressing frontline concerns and measuring adoption metrics weekly, we achieved 90%+ engagement across teams.",
+    "competency_ids": [
+      "C05"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T20:18:31.087093Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-44afd52e",
+    "question_id": "q-d0719b32",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Transformation & Change"
+  },
+  {
+    "id": "INT-E-20260912201905916415",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "When evaluating commercial restructuring options for an enterprise client, internal teams differed on pricing strategy versus volume expansion. I structured an issue tree decomposing total shareholder value into margin expansion, volume growth, and customer lifetime value. By modeling unit economics and ROI scenarios across customer segments, I enabled the executive committee to adopt a value-aligned pricing model that maximized long-term profitability.",
+    "competency_ids": [
+      "C09"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T20:19:05.916415Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-44afd52e",
+    "question_id": "q-5f041244",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Problem Structuring & Commercial Thinking"
+  },
+  {
+    "id": "EV-TEST-CLAIM-001",
+    "candidate_id": "cand-test-claim-verification",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Reduced model inference latency by 40% using TensorRT and vLLM acceleration pipeline.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T20:28:22.363912Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-RESUME-TRI-01",
+    "candidate_id": "cand-test-triangulation",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Implemented enterprise multi-agent platform for real-time document search.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T20:28:23.875946Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-CASE-TRI-02",
+    "candidate_id": "cand-test-triangulation",
+    "source": "consulting_case",
+    "evidence_type": "case_work_sample",
+    "text": "Designed retail bank onboarding automation architecture and TOM roadmap.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.85,
+    "created_at": "2026-09-12T20:28:23.875946Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "INT-E-20260912202825948194",
+    "candidate_id": "cand-test-provenance",
+    "source": "adaptive_interview",
+    "evidence_type": "consulting_response",
+    "text": "I led the enterprise architecture team through baseline measurement, pilot validation, and phased rollout.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.8,
+    "created_at": "2026-09-12T20:28:25.948194Z",
+    "source_version": "adaptive-interview-v1.0",
+    "attempt_id": "INT-32b57ba5",
+    "question_id": "q-3779988f",
+    "pathway": "role-ai-transformation-consultant",
+    "category": "COMPETENCY_PROBE",
+    "source_evidence_ids": [],
+    "evidence_to_verify": "Insufficient evidence for Enterprise AI Transformation"
+  },
+  {
+    "id": "EV-NO-VALID-01",
+    "candidate_id": "cand-test-no-valid-claim",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "sarthakai.eng@gmail.com\nhttps://github.com/username\n+91 9999999999",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T20:28:25.969824Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-VALID-SOURCE-01",
+    "candidate_id": "cand-test-source-evidence",
+    "source": "resume",
+    "evidence_type": "self_report",
+    "text": "Built a Python ML pipeline to detect Parkinson's disease using multimodal data.",
+    "competency_ids": [
+      "C08"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.7,
+    "created_at": "2026-09-12T20:28:26.454386Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  },
+  {
+    "id": "EV-REV-test-candidate-review-C01-1789244907",
+    "candidate_id": "test-candidate-review",
+    "source": "Assessor Assessor-X",
+    "evidence_type": "human_review",
+    "text": "AI Score: 50.0 -> Human Score: 75.0. Notes: Evidence from interview was stronger than initially captured.",
+    "competency_ids": [
+      "C01"
+    ],
+    "canonical_competency_ids": [],
+    "confidence": 0.95,
+    "created_at": "2026-09-12T20:28:27.746302Z",
+    "source_version": "v1",
+    "attempt_id": null,
+    "question_id": null,
+    "pathway": null,
+    "category": null,
+    "source_evidence_ids": [],
+    "evidence_to_verify": null
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "id": "ATT-1fbd2f27",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "assessment_version": "v1.0",
+    "attempt_number": 1,
+    "status": "completed",
+    "evidence_ids": [
+      "EVI-f138ad24",
+      "EVI-db302794",
+      "EVI-d609bab0",
+      "EVI-2d490e26",
+      "EVI-95277812",
+      "EVI-d16a73c7"
+    ],
+    "previous_attempt_id": null,
+    "started_at": "2026-09-12T17:59:27.221873Z",
+    "completed_at": "2026-09-12T18:02:14.717481+00:00"
+  },
+  {
+    "id": "ATT-3523d959",
+    "candidate_id": "CAND-TEST",
+    "assessment_version": "v1.0",
+    "attempt_number": 1,
+    "status": "completed",
+    "evidence_ids": [],
+    "previous_attempt_id": null,
+    "started_at": "2026-09-12T18:17:09.725187Z",
+    "completed_at": "2026-09-12T18:17:09.725187Z"
+  },
+  {
+    "id": "ATT-bcb8d94e",
+    "candidate_id": "cand-alex-mercer-s78f",
+    "assessment_version": "v1.0",
+    "attempt_number": 1,
+    "status": "completed",
+    "evidence_ids": [
+      "EVI-479bfd3c",
+      "EVI-5f6fe080",
+      "EVI-1436d51d",
+      "EVI-f5e78651",
+      "EVI-db985cf1",
+      "EVI-9bf1a779"
+    ],
+    "previous_attempt_id": null,
+    "started_at": "2026-09-12T18:27:56.345455Z",
+    "completed_at": "2026-09-12T18:30:22.975262+00:00"
+  },
+  {
+    "id": "ATT-75f2d4ad",
+    "candidate_id": "cand-jhon-9g1s",
+    "assessment_version": "v1.0",
+    "attempt_number": 1,
+    "status": "completed",
+    "evidence_ids": [
+      "EVI-9fb720f9",
+      "EVI-150bfd18",
+      "EVI-2113720b",
+      "EVI-5ae3ed43",
+      "EVI-da9d2586",
+      "EVI-59ab8720"
+    ],
+    "previous_attempt_id": null,
+    "started_at": "2026-09-12T18:39:36.561006Z",
+    "completed_at": "2026-09-12T18:40:59.794601+00:00"
+  },
+  {
+    "id": "ATT-a2928084",
+    "candidate_id": "cand-ram-yuab",
+    "assessment_version": "v1.0",
+    "attempt_number": 1,
+    "status": "completed",
+    "evidence_ids": [
+      "EVI-7c5e2e86",
+      "EVI-8ce4d9ca",
+      "EVI-a6a32946",
+      "EVI-a202f815",
+      "EVI-ccadbb55",
+      "EVI-6703e27d"
+    ],
+    "previous_attempt_id": null,
+    "started_at": "2026-09-12T18:55:09.026273Z",
+    "completed_at": "2026-09-12T18:55:27.845356+00:00"
+  },
+  {
+    "id": "ATT-a0b7ecc7",
+    "candidate_id": "cand-test-candidate-npu8",
+    "assessment_version": "v1.0",
+    "attempt_number": 1,
+    "status": "in_progress",
+    "evidence_ids": [],
+    "previous_attempt_id": null,
+    "started_at": "2026-09-12T19:21:23.945461Z",
+    "completed_at": null
+  },
+  {
+    "id": "ATT-d6ba3aca",
+    "candidate_id": "cand-alex-mercer-9vxe",
+    "assessment_version": "v1.0",
+    "attempt_number": 1,
+    "status": "in_progress",
+    "evidence_ids": [],
+    "previous_attempt_id": null,
+    "started_at": "2026-09-12T19:29:49.272198Z",
+    "completed_at": null
+  },
+  {
+    "id": "ATT-b82be24b",
+    "candidate_id": "cand-alex-mercer-9vxe",
+    "assessment_version": "v1.0",
+    "attempt_number": 2,
+    "status": "completed",
+    "evidence_ids": [
+      "EVI-56397da1",
+      "EVI-e2f49531",
+      "EVI-b9038279",
+      "EVI-ba46e87b",
+      "EVI-06e42690",
+      "EVI-dfcf5f56"
+    ],
+    "previous_attempt_id": "ATT-d6ba3aca",
+    "started_at": "2026-09-12T19:30:10.387774Z",
+    "completed_at": "2026-09-12T19:32:27.021886+00:00"
+  },
+  {
+    "id": "ATT-ee481ea8",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "assessment_version": "v1.0",
+    "attempt_number": 1,
+    "status": "completed",
+    "evidence_ids": [
+      "EVI-d5f3c7ea",
+      "EVI-748dcd8e",
+      "EVI-6c0c4fc9",
+      "EVI-53d20184",
+      "EVI-6a104d6f",
+      "EVI-70d57001"
+    ],
+    "previous_attempt_id": null,
+    "started_at": "2026-09-12T20:11:40.764054Z",
+    "completed_at": "2026-09-12T20:14:13.168530+00:00"
+  }
+]

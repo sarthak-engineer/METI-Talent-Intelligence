@@ -1,0 +1,594 @@
+[
+  {
+    "id": "REV-cand-alex-jeffu-s3mz-SNAP-62f2f42e",
+    "candidate_id": "cand-alex-jeffu-s3mz",
+    "analysis_snapshot_id": "SNAP-62f2f42e",
+    "review_required": true,
+    "reasons": [
+      "client_facing_role"
+    ],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T18:07:56.763355Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1-reviewed",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "adjusted",
+    "reviewer_id": "Assessor-X",
+    "reviewer_notes": "Evidence from interview was stronger than initially captured.",
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": "2026-09-12T18:17:21.774218Z"
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1-reviewed",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "adjusted",
+    "reviewer_id": "Assessor-X",
+    "reviewer_notes": "Evidence from interview was stronger than initially captured.",
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": "2026-09-12T18:26:25.880368Z"
+  },
+  {
+    "id": "REV-cand-alex-mercer-s78f-SNAP-f720a64a",
+    "candidate_id": "cand-alex-mercer-s78f",
+    "analysis_snapshot_id": "SNAP-f720a64a",
+    "review_required": false,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T18:35:02.280092Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-cand-jhon-9g1s-SNAP-d1c72ac7",
+    "candidate_id": "cand-jhon-9g1s",
+    "analysis_snapshot_id": "SNAP-d1c72ac7",
+    "review_required": true,
+    "reasons": [
+      "client_facing_role"
+    ],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T18:45:16.363839Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-cand-ram-yuab-SNAP-6ec0eeb5",
+    "candidate_id": "cand-ram-yuab",
+    "analysis_snapshot_id": "SNAP-6ec0eeb5",
+    "review_required": false,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T18:56:34.871997Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1-reviewed",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "adjusted",
+    "reviewer_id": "Assessor-X",
+    "reviewer_notes": "Evidence from interview was stronger than initially captured.",
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": "2026-09-12T19:09:15.555057Z"
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1-reviewed",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "adjusted",
+    "reviewer_id": "Assessor-X",
+    "reviewer_notes": "Evidence from interview was stronger than initially captured.",
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": "2026-09-12T19:14:08.090348Z"
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1-reviewed",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "adjusted",
+    "reviewer_id": "Assessor-X",
+    "reviewer_notes": "Evidence from interview was stronger than initially captured.",
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": "2026-09-12T19:19:20.899390Z"
+  },
+  {
+    "id": "REV-cand-alex-mercer-s78f-SNAP-78685bf0",
+    "candidate_id": "cand-alex-mercer-s78f",
+    "analysis_snapshot_id": "SNAP-78685bf0",
+    "review_required": false,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T19:20:05.404734Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1-reviewed",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "adjusted",
+    "reviewer_id": "Assessor-X",
+    "reviewer_notes": "Evidence from interview was stronger than initially captured.",
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": "2026-09-12T19:28:04.345615Z"
+  },
+  {
+    "id": "r-1",
+    "candidate_id": "isolate-cand-1",
+    "analysis_snapshot_id": "s-c1",
+    "review_required": true,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:00:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "r-2",
+    "candidate_id": "isolate-cand-2",
+    "analysis_snapshot_id": "s-c2",
+    "review_required": true,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:00:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-cand-alex-mercer-9vxe-SNAP-61f04e6a",
+    "candidate_id": "cand-alex-mercer-9vxe",
+    "analysis_snapshot_id": "SNAP-61f04e6a",
+    "review_required": false,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T19:36:59.031014Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1-reviewed",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "adjusted",
+    "reviewer_id": "Assessor-X",
+    "reviewer_notes": "Evidence from interview was stronger than initially captured.",
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": "2026-09-12T19:51:47.801824Z"
+  },
+  {
+    "id": "r-1",
+    "candidate_id": "isolate-cand-1",
+    "analysis_snapshot_id": "s-c1",
+    "review_required": true,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:00:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "r-2",
+    "candidate_id": "isolate-cand-2",
+    "analysis_snapshot_id": "s-c2",
+    "review_required": true,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:00:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1-reviewed",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "adjusted",
+    "reviewer_id": "Assessor-X",
+    "reviewer_notes": "Evidence from interview was stronger than initially captured.",
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": "2026-09-12T19:56:51.908836Z"
+  },
+  {
+    "id": "r-1",
+    "candidate_id": "isolate-cand-1",
+    "analysis_snapshot_id": "s-c1",
+    "review_required": true,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:00:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "r-2",
+    "candidate_id": "isolate-cand-2",
+    "analysis_snapshot_id": "s-c2",
+    "review_required": true,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:00:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1-reviewed",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "adjusted",
+    "reviewer_id": "Assessor-X",
+    "reviewer_notes": "Evidence from interview was stronger than initially captured.",
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": "2026-09-12T20:05:13.223291Z"
+  },
+  {
+    "id": "r-1",
+    "candidate_id": "isolate-cand-1",
+    "analysis_snapshot_id": "s-c1",
+    "review_required": true,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:00:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "r-2",
+    "candidate_id": "isolate-cand-2",
+    "analysis_snapshot_id": "s-c2",
+    "review_required": true,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:00:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1-reviewed",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "adjusted",
+    "reviewer_id": "Assessor-X",
+    "reviewer_notes": "Evidence from interview was stronger than initially captured.",
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": "2026-09-12T20:06:53.857998Z"
+  },
+  {
+    "id": "r-1",
+    "candidate_id": "isolate-cand-1",
+    "analysis_snapshot_id": "s-c1",
+    "review_required": true,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:00:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "r-2",
+    "candidate_id": "isolate-cand-2",
+    "analysis_snapshot_id": "s-c2",
+    "review_required": true,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:00:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1-reviewed",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "adjusted",
+    "reviewer_id": "Assessor-X",
+    "reviewer_notes": "Evidence from interview was stronger than initially captured.",
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": "2026-09-12T20:07:37.382895Z"
+  },
+  {
+    "id": "r-1",
+    "candidate_id": "isolate-cand-1",
+    "analysis_snapshot_id": "s-c1",
+    "review_required": true,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:00:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "r-2",
+    "candidate_id": "isolate-cand-2",
+    "analysis_snapshot_id": "s-c2",
+    "review_required": true,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:00:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-cand-alice-smith-y2kl-SNAP-690516b6",
+    "candidate_id": "cand-alice-smith-y2kl",
+    "analysis_snapshot_id": "SNAP-690516b6",
+    "review_required": false,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T20:19:43.362517Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "REV-test-candidate-review-test-snapshot-1",
+    "candidate_id": "test-candidate-review",
+    "analysis_snapshot_id": "test-snapshot-1-reviewed",
+    "review_required": true,
+    "reasons": [
+      "low_evidence_confidence"
+    ],
+    "status": "adjusted",
+    "reviewer_id": "Assessor-X",
+    "reviewer_notes": "Evidence from interview was stronger than initially captured.",
+    "created_at": "2026-09-12T00:01:00Z",
+    "reviewed_at": "2026-09-12T20:28:27.743627Z"
+  },
+  {
+    "id": "r-1",
+    "candidate_id": "isolate-cand-1",
+    "analysis_snapshot_id": "s-c1",
+    "review_required": true,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:00:00Z",
+    "reviewed_at": null
+  },
+  {
+    "id": "r-2",
+    "candidate_id": "isolate-cand-2",
+    "analysis_snapshot_id": "s-c2",
+    "review_required": true,
+    "reasons": [],
+    "status": "pending",
+    "reviewer_id": null,
+    "reviewer_notes": null,
+    "created_at": "2026-09-12T00:00:00Z",
+    "reviewed_at": null
+  }
+]
