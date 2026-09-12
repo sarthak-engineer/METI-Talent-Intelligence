@@ -1,4 +1,5 @@
 "use client";
+import { API_BASE_URL } from "@/app/utils/api";
 
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
@@ -47,7 +48,7 @@ export default function OnboardingPage() {
       setUploadStatus("Persisting candidate profile...");
 
       // 1. Persist candidate record to backend
-      const candRes = await fetch("http://127.0.0.1:8000/api/candidates", {
+      const candRes = await fetch(`${API_BASE_URL}/api/candidates`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

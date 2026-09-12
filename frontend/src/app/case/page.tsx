@@ -1,4 +1,5 @@
 "use client";
+import { API_BASE_URL } from "@/app/utils/api";
 
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
@@ -39,7 +40,7 @@ export default function CasePage() {
     setTargetPathway(pathway);
 
     // Check if case evidence already exists for candidate
-    fetch(`http://127.0.0.1:8000/api/evidence/${cid}`)
+    fetch(`${API_BASE_URL}/api/evidence/${cid}`)
       .then((res) => (res.ok ? res.json() : []))
       .then((data) => {
         const items = Array.isArray(data) ? data : data.evidence ?? [];
@@ -58,7 +59,7 @@ export default function CasePage() {
   const loadCase = async (pathway: string, cid: string) => {
     setLoading(true);
     try {
-      const res = await fetch(`http://127.0.0.1:8000/api/case/?pathway=${pathway}`);
+      const res = await fetch(`${API_BASE_URL}/api/case/?pathway=${pathway}`);
       if (!res.ok) throw new Error("Failed to load case definition");
       const cDef = await res.json();
       setCaseDef(cDef);
@@ -74,7 +75,7 @@ export default function CasePage() {
 
   const handleStartAttempt = async (cid: string, caseId: string) => {
     try {
-      const res = await fetch(`http://127.0.0.1:8000/api/case/attempts?candidate_id=${cid}&case_id=${caseId}`, { method: "POST" });
+      const res = await fetch(`${API_BASE_URL}/api/case/attempts?candidate_id=${cid}&case_id=${caseId}`, { method: "POST" });
       if (!res.ok) throw new Error("Failed to start case attempt");
       const data = await res.json();
       setAttemptId(data.attempt_id);
@@ -89,7 +90,7 @@ export default function CasePage() {
     setSubmitting(true);
     setError("");
     try {
-      const res = await fetch(`http://127.0.0.1:8000/api/case/attempts/${attemptId}/submit`, {
+      const res = await fetch(`${API_BASE_URL}/api/case/attempts/${attemptId}/submit`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ candidate_response: response }),

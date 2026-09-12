@@ -1,4 +1,5 @@
 "use client";
+import { API_BASE_URL } from "@/app/utils/api";
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
@@ -34,7 +35,7 @@ export default function ReportsPage() {
     setMeta(null);
     setFetched(false);
     try {
-      const res = await fetch(`http://127.0.0.1:8000/api/reports/${id}`);
+      const res = await fetch(`${API_BASE_URL}/api/reports/${id}`);
       if (!res.ok) {
         const d = await res.json().catch(() => ({}));
         throw new Error(d.detail || "Failed to load report");
@@ -190,7 +191,7 @@ export default function ReportsPage() {
               style={{ marginBottom: 20 }}
               onClick={async () => {
                 try {
-                  await fetch(`http://127.0.0.1:8000/api/entitlements/${candidateId}/upgrade`, { method: "POST" });
+                  await fetch(`${API_BASE_URL}/api/entitlements/${candidateId}/upgrade`, { method: "POST" });
                   fetchReport();
                 } catch {}
               }}

@@ -1,3 +1,4 @@
+import { API_BASE_URL } from "@/app/utils/api";
 export type JourneyStateEnum =
   | "PROFILE_INCOMPLETE"
   | "PROFILE_COMPLETE"
@@ -100,11 +101,11 @@ export async function fetchCandidateJourney(
 
   try {
     const [candRes, evRes, anRes, repRes, attRes] = await Promise.all([
-      fetch(`http://127.0.0.1:8000/api/candidates/${cid}`).catch(() => null),
-      fetch(`http://127.0.0.1:8000/api/evidence/${cid}`).catch(() => null),
-      fetch(`http://127.0.0.1:8000/api/analysis/${cid}`).catch(() => null),
-      fetch(`http://127.0.0.1:8000/api/reports/${cid}`).catch(() => null),
-      fetch(`http://127.0.0.1:8000/api/assessment/attempts/${cid}`).catch(() => null),
+      fetch(`${API_BASE_URL}/api/candidates/${cid}`).catch(() => null),
+      fetch(`${API_BASE_URL}/api/evidence/${cid}`).catch(() => null),
+      fetch(`${API_BASE_URL}/api/analysis/${cid}`).catch(() => null),
+      fetch(`${API_BASE_URL}/api/reports/${cid}`).catch(() => null),
+      fetch(`${API_BASE_URL}/api/assessment/attempts/${cid}`).catch(() => null),
     ]);
 
     if (candRes && candRes.ok) {

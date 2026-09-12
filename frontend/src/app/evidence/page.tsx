@@ -1,4 +1,5 @@
 "use client";
+import { API_BASE_URL } from "@/app/utils/api";
 
 import { useEffect, useState, useMemo } from "react";
 import Link from "next/link";
@@ -110,9 +111,9 @@ export default function EvidencePage() {
   async function refreshData(cid: string) {
     try {
       const [evRes, anRes, wtRes] = await Promise.all([
-        fetch(`http://127.0.0.1:8000/api/evidence/${cid}`),
-        fetch(`http://127.0.0.1:8000/api/analysis/${cid}`),
-        fetch(`http://127.0.0.1:8000/api/evidence/config/weights`),
+        fetch(`${API_BASE_URL}/api/evidence/${cid}`),
+        fetch(`${API_BASE_URL}/api/analysis/${cid}`),
+        fetch(`${API_BASE_URL}/api/evidence/config/weights`),
       ]);
       if (evRes.ok) {
         const evData = await evRes.json();
@@ -131,7 +132,7 @@ export default function EvidencePage() {
     setAnalyzeMsg("");
     setError("");
     try {
-      const res = await fetch(`http://127.0.0.1:8000/api/analysis/${candidateId}`, { method: "POST" });
+      const res = await fetch(`${API_BASE_URL}/api/analysis/${candidateId}`, { method: "POST" });
       if (!res.ok) {
         const d = await res.json().catch(() => ({}));
         throw new Error(d.detail || "Analysis generation failed");
@@ -152,7 +153,7 @@ export default function EvidencePage() {
     setUploading(true);
     setError("");
     try {
-      const res = await fetch("http://127.0.0.1:8000/api/evidence", {
+      const res = await fetch(`${API_BASE_URL}/api/evidence`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

@@ -1,4 +1,5 @@
 "use client";
+import { API_BASE_URL } from "@/app/utils/api";
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
@@ -86,7 +87,7 @@ export default function EvolutionPage() {
       setCandidateId(cid);
       setLoading(true);
       try {
-        const res = await fetch(`http://127.0.0.1:8000/api/analysis/${cid}/evolution`);
+        const res = await fetch(`${API_BASE_URL}/api/analysis/${cid}/evolution`);
         if (!res.ok) throw new Error(`Status ${res.status}`);
         setEvolution(await res.json());
       } catch (e: any) {

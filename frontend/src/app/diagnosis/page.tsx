@@ -1,4 +1,5 @@
 "use client";
+import { API_BASE_URL } from "@/app/utils/api";
 
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
@@ -108,8 +109,8 @@ export default function DiagnosisPage() {
   async function refreshState(cid: string) {
     try {
       const [anRes, evRes] = await Promise.all([
-        fetch(`http://127.0.0.1:8000/api/analysis/${cid}`).catch(() => null),
-        fetch(`http://127.0.0.1:8000/api/evidence/${cid}`).catch(() => null),
+        fetch(`${API_BASE_URL}/api/analysis/${cid}`).catch(() => null),
+        fetch(`${API_BASE_URL}/api/evidence/${cid}`).catch(() => null),
       ]);
 
       if (evRes && evRes.ok) {
@@ -134,7 +135,7 @@ export default function DiagnosisPage() {
     setAnalyzing(true);
     setError("");
     try {
-      const res = await fetch(`http://127.0.0.1:8000/api/analysis/${candidateId}`, { method: "POST" });
+      const res = await fetch(`${API_BASE_URL}/api/analysis/${candidateId}`, { method: "POST" });
       if (!res.ok) {
         const d = await res.json().catch(() => ({}));
         throw new Error(d.detail || "Failed to generate diagnosis.");

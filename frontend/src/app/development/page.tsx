@@ -1,4 +1,5 @@
 "use client";
+import { API_BASE_URL } from "@/app/utils/api";
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
@@ -22,12 +23,12 @@ export default function DevelopmentPage() {
       setLoading(true);
       try {
         let fullData = null;
-        const repRes = await fetch(`http://127.0.0.1:8000/api/reports/${cid}`);
+        const repRes = await fetch(`${API_BASE_URL}/api/reports/${cid}`);
         if (repRes.ok) {
           fullData = await repRes.json();
         } else {
           // fallback to raw analysis if report doesn't exist
-          const anRes = await fetch(`http://127.0.0.1:8000/api/analysis/${cid}`);
+          const anRes = await fetch(`${API_BASE_URL}/api/analysis/${cid}`);
           if (anRes.ok) {
             fullData = { detailed_report: await anRes.json() };
           }

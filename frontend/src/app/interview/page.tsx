@@ -1,4 +1,5 @@
 "use client";
+import { API_BASE_URL } from "@/app/utils/api";
 
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
@@ -67,7 +68,7 @@ export default function InterviewPage() {
     setTargetPathway(pathway);
 
     // Check if interview evidence already exists
-    fetch(`http://127.0.0.1:8000/api/evidence/${cid}`)
+    fetch(`${API_BASE_URL}/api/evidence/${cid}`)
       .then((res) => (res.ok ? res.json() : []))
       .then((data) => {
         const items = Array.isArray(data) ? data : data.evidence ?? [];
@@ -89,7 +90,7 @@ export default function InterviewPage() {
     setError("");
     try {
       const res = await fetch(
-        `http://127.0.0.1:8000/api/interview/attempts?candidate_id=${candidateId}&pathway=${targetPathway}`,
+        `${API_BASE_URL}/api/interview/attempts?candidate_id=${candidateId}&pathway=${targetPathway}`,
         { method: "POST" }
       );
       if (!res.ok) throw new Error("Failed to start interview");
@@ -112,7 +113,7 @@ export default function InterviewPage() {
     setError("");
     try {
       const res = await fetch(
-        `http://127.0.0.1:8000/api/interview/attempts/${attempt.interview_id}/submit`,
+        `${API_BASE_URL}/api/interview/attempts/${attempt.interview_id}/submit`,
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },

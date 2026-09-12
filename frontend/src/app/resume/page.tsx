@@ -1,4 +1,5 @@
 "use client";
+import { API_BASE_URL } from "@/app/utils/api";
 
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
@@ -32,7 +33,7 @@ export default function ResumeUploadPage() {
     setCandidateName(cname);
 
     // Check if resume evidence already exists for this candidate
-    fetch(`http://127.0.0.1:8000/api/evidence/${cid}`)
+    fetch(`${API_BASE_URL}/api/evidence/${cid}`)
       .then((res) => (res.ok ? res.json() : null))
       .then((data) => {
         if (data) {
@@ -71,7 +72,7 @@ export default function ResumeUploadPage() {
       formData.append("file", selectedFile);
 
       const res = await fetch(
-        `http://127.0.0.1:8000/api/resume/upload?candidate_id=${candidateId}`,
+        `${API_BASE_URL}/api/resume/upload?candidate_id=${candidateId}`,
         {
           method: "POST",
           body: formData,

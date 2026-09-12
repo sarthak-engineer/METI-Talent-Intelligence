@@ -1,4 +1,5 @@
 "use client";
+import { API_BASE_URL } from "@/app/utils/api";
 
 import { useEffect, useState } from "react";
 
@@ -81,7 +82,7 @@ export default function ReviewPage() {
     setLoading(true);
     setError("");
     try {
-      const res = await fetch("http://127.0.0.1:8000/api/review/queue");
+      const res = await fetch(`${API_BASE_URL}/api/review/queue`);
       if (!res.ok) throw new Error("Failed to load queue");
       const rawQueue = await res.json();
       const validQueue = (Array.isArray(rawQueue) ? rawQueue : []).filter((item: ReviewQueueItem) => {
@@ -106,7 +107,7 @@ export default function ReviewPage() {
     setSuccessMsg("");
     setError("");
     try {
-      const url = `http://127.0.0.1:8000/api/review/${cid}${sid ? `?snapshot_id=${sid}` : ""}`;
+      const url = `${API_BASE_URL}/api/review/${cid}${sid ? `?snapshot_id=${sid}` : ""}`;
       const res = await fetch(url);
       if (!res.ok) {
         const d = await res.json().catch(() => ({}));
@@ -144,7 +145,7 @@ export default function ReviewPage() {
     setSubmitting(true);
     setError("");
     try {
-      const res = await fetch(`http://127.0.0.1:8000/api/review/${detail.review.id}/decision`, {
+      const res = await fetch(`${API_BASE_URL}/api/review/${detail.review.id}/decision`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ decision, reviewer_id: reviewerId, reviewer_notes: notes, adjustments }),

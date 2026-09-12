@@ -1,4 +1,5 @@
 "use client";
+import { API_BASE_URL } from "@/app/utils/api";
 
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
@@ -66,8 +67,8 @@ export default function AssessmentPage() {
 
       // Check if attempt/evidence already completed for this candidate
       const [attRes, qRes] = await Promise.all([
-        fetch(`http://127.0.0.1:8000/api/assessment/attempts/candidate/${cid}`).catch(() => null),
-        fetch(`http://127.0.0.1:8000/api/assessment/questions?candidate_id=${cid}&target_pathway=${pathway}`).catch(() => null),
+        fetch(`${API_BASE_URL}/api/assessment/attempts/candidate/${cid}`).catch(() => null),
+        fetch(`${API_BASE_URL}/api/assessment/questions?candidate_id=${cid}&target_pathway=${pathway}`).catch(() => null),
       ]);
 
       if (attRes && attRes.ok) {
@@ -94,7 +95,7 @@ export default function AssessmentPage() {
     if (!candidateId) return;
     try {
       setStatus("loading_attempt");
-      const res = await fetch("http://127.0.0.1:8000/api/assessment/attempts", {
+      const res = await fetch(`${API_BASE_URL}/api/assessment/attempts`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ candidate_id: candidateId }),
@@ -119,7 +120,7 @@ export default function AssessmentPage() {
     if (!attemptId || !candidateId) return;
     try {
       setStatus("submitting");
-      const res = await fetch(`http://127.0.0.1:8000/api/assessment/attempts/${attemptId}/submit`, {
+      const res = await fetch(`${API_BASE_URL}/api/assessment/attempts/${attemptId}/submit`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
