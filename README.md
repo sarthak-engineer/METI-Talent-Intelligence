@@ -16,6 +16,10 @@ The platform is designed around a simple principle:
 
 ---
 
+# Live Demo
+https://meti-talent-intelligence-frontend.onrender.com
+
+
 ## Why METI?
 
 Traditional talent assessment often separates information across resumes, interviews, assessments, portfolios, and recruiter judgement.
@@ -728,10 +732,6 @@ NEXT_PUBLIC_API_URL
 ```
 
 ---
-
-# Live Demo
-https://meti-talent-intelligence-frontend.onrender.com
-
 
 # Local Development
 
